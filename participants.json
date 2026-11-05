@@ -53,7 +53,7 @@
       }
     ],
     "accompagnement": "Christelle : Rania pour la fidélité et l’avis client, \nBruno : Romane pour les catalogues, \nJanine : Margaux pour la stratégie communication",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · Ecume · n° 201",
     "rdv_demandes": ""
   },
   "l1KSJgaq0bR43aLi": {
@@ -110,7 +110,7 @@
       }
     ],
     "accompagnement": "Margaux pour la stratégie communication",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Crépon 5",
     "rdv_demandes": ""
   },
   "ic3obeJ6ZLMl-NFU": {
@@ -167,7 +167,7 @@
       }
     ],
     "accompagnement": "Rania pour la fidélité et l’avis client",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · Ecume · n°4",
     "rdv_demandes": ""
   },
   "13lqy6Tltd3FnKU2": {
@@ -176,12 +176,7 @@
     "days": [
       {
         "title": "Lundi 23 novembre",
-        "items": [
-          {
-            "time": "",
-            "title": "Consultez le programme général dans Documents pour cette journée."
-          }
-        ]
+        "items": []
       },
       {
         "title": "Mardi 24 novembre",
@@ -193,10 +188,6 @@
           {
             "time": "15h45",
             "title": "MON ATELIER · Rendre sa commercialisation plus efficace avec les nouveaux outils IA"
-          },
-          {
-            "time": "",
-            "title": "Accompagnement demandé · Margaux pour la stratégie communication (horaire à confirmer)"
           }
         ]
       },
@@ -210,21 +201,20 @@
           {
             "time": "15h45",
             "title": "MON ATELIER · Mettre en place des processus simples pour sécuriser ses supports web"
+          },
+          {
+            "time": "20h00",
+            "title": "Soirée de gala"
           }
         ]
       },
       {
         "title": "Jeudi 26 novembre",
-        "items": [
-          {
-            "time": "",
-            "title": "Consultez le programme général dans Documents pour cette journée."
-          }
-        ]
+        "items": []
       }
     ],
     "accompagnement": "Margaux pour la stratégie communication",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris Ecume · n°3",
     "rdv_demandes": "METRO, QOVOLTIS, SKELLO, OSMOZIS"
   },
   "PgtTLjqsq_D9ctes": {
@@ -276,7 +266,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Thaon 2",
     "rdv_demandes": ""
   },
   "ctAjbi3Ge5n6ZBip": {
@@ -333,7 +323,7 @@
       }
     ],
     "accompagnement": "Margaux pour la stratégie communication",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Crépon 8",
     "rdv_demandes": "QOVOLTIS, SKELLO, LE CEDRE"
   },
   "rAZPKvm-cgAOngl6": {
@@ -390,7 +380,7 @@
       }
     ],
     "accompagnement": "Margaux pour la stratégie communication",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Bayeux 7",
     "rdv_demandes": ""
   },
   "dOdVBW7TtaLD1TCt": {
@@ -442,7 +432,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Information à demander à l’accueil",
     "rdv_demandes": ""
   },
   "TigJrruGiXh1sibf": {
@@ -495,7 +485,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris Ecume · n°11",
     "rdv_demandes": ""
   },
   "DQpxYyodjqFmTc45": {
@@ -552,7 +542,7 @@
       }
     ],
     "accompagnement": "Margaux pour la stratégie communication",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Crépon 7",
     "rdv_demandes": ""
   },
   "K4sLzI1XPdj1HaHV": {
@@ -609,7 +599,7 @@
       }
     ],
     "accompagnement": "Margaux pour la stratégie communication",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Chalet longues sur mer",
     "rdv_demandes": ""
   },
   "nRF50spt2uOl5a8U": {
@@ -666,7 +656,7 @@
       }
     ],
     "accompagnement": "Margaux pour la stratégie communication",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Chalet · Amblie",
     "rdv_demandes": "HESPERIDE, QOVOLTIS, LE CEDRE"
   },
   "DhjEPSF_PveKQSmH": {
@@ -718,7 +708,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Thaon 1",
     "rdv_demandes": ""
   },
   "UWDx1lIwgQzNKGSs": {
@@ -771,7 +761,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · St Come 6",
     "rdv_demandes": "METRO, FORMATOURISME, GRITCHEN, OSMOZIS"
   },
   "PA-llgtm86QNoAEp": {
@@ -823,7 +813,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Caen 2",
     "rdv_demandes": ""
   },
   "_ON0NA_R9jbKGC06": {
@@ -875,7 +865,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Information à demander à l’accueil",
     "rdv_demandes": ""
   },
   "gYe0tY9272O_rog4": {
@@ -932,7 +922,7 @@
       }
     ],
     "accompagnement": "Margaux pour la stratégie communication",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Crépon 4",
     "rdv_demandes": "METRO, FORMATOURISME"
   },
   "vfvdqboxva1cEAH9": {
@@ -984,7 +974,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Caen 3",
     "rdv_demandes": ""
   },
   "bhohiVraazai7dMT": {
@@ -1036,7 +1026,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Caen 4",
     "rdv_demandes": ""
   },
   "jdV6vPylEI4b6_As": {
@@ -1093,7 +1083,7 @@
       }
     ],
     "accompagnement": "Rania pour la fidélité et l’avis client, \nRomane pour les catalogues, \nMargaux pour la stratégie communication",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Crépon 3",
     "rdv_demandes": "QOVOLTIS, SKELLO, FORMATOURISME, TEDIBER"
   },
   "coUleMTRu8jcNzDt": {
@@ -1145,7 +1135,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Creully 1",
     "rdv_demandes": ""
   },
   "zzsRlK9LvatbwbXS": {
@@ -1197,7 +1187,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Creully 2",
     "rdv_demandes": ""
   },
   "kU-ZqFz_o5J_pv32": {
@@ -1254,7 +1244,7 @@
       }
     ],
     "accompagnement": "Rania pour la fidélité et l’avis client, \nMargaux pour la stratégie communication",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Maurice Schumann · Manoir 4",
     "rdv_demandes": "METRO, QOVOLTIS, TEDIBER, CUSTOMER ALLIANCE"
   },
   "uKGvX4Aa4cm_kTjT": {
@@ -1306,7 +1296,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Fontaine · Henry 1",
     "rdv_demandes": ""
   },
   "yPzaJ9WKPbYCpsUv": {
@@ -1358,7 +1348,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Information à demander à l’accueil",
     "rdv_demandes": ""
   },
   "s1PL4j1t7sQ6jtLY": {
@@ -1415,7 +1405,7 @@
       }
     ],
     "accompagnement": "Rania pour la fidélité et l’avis client, \nRomane pour les catalogues, \nMargaux pour la stratégie communication",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · St Come 5",
     "rdv_demandes": "METRO, HESPERIDE, QOVOLTIS, SKELLO, FORMATOURISME, LE CEDRE, AQUATIQUE VACANCES"
   },
   "F0Kr5e8PIVP-YiKB": {
@@ -1467,7 +1457,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · St Come 7",
     "rdv_demandes": ""
   },
   "bphFoyr5BS6bptM5": {
@@ -1519,7 +1509,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Fontaine · Henry 3",
     "rdv_demandes": ""
   },
   "Mm8DOSng3yGE827q": {
@@ -1571,7 +1561,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Creully 3",
     "rdv_demandes": ""
   },
   "6uh7lo4dwB64nAso": {
@@ -1628,7 +1618,7 @@
       }
     ],
     "accompagnement": "Rania pour la fidélité et l’avis client, \nRomane pour les catalogues, \nMargaux pour la stratégie communication",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Caen 1",
     "rdv_demandes": "METRO, HESPERIDE, QOVOLTIS, SKELLO, FORMATOURISME, LE CEDRE, AQUATIQUE VACANCES"
   },
   "QQoz2MpQuV7z5JxW": {
@@ -1685,7 +1675,7 @@
       }
     ],
     "accompagnement": "Rania pour la fidélité et l’avis client",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · Ecume · N°212",
     "rdv_demandes": "SKELLO, LE CEDRE, OSMOZIS"
   },
   "OLfNOzGxOsdc1vU8": {
@@ -1742,7 +1732,7 @@
       }
     ],
     "accompagnement": "Margaux pour la stratégie communication",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · Ecume · n°5",
     "rdv_demandes": ""
   },
   "4nTjf7S3Hr96d8hk": {
@@ -1794,7 +1784,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Creully 4",
     "rdv_demandes": ""
   },
   "xWPQlMgzThMcMEOr": {
@@ -1851,7 +1841,7 @@
       }
     ],
     "accompagnement": "Margaux pour la stratégie communication",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Bayeux 8",
     "rdv_demandes": "HESPERIDE, GRITCHEN"
   },
   "zAFvVWXu7qlqHVWR": {
@@ -1903,7 +1893,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Information à demander à l’accueil",
     "rdv_demandes": ""
   },
   "Uhqt09bYvmlP4BlU": {
@@ -1960,7 +1950,7 @@
       }
     ],
     "accompagnement": "Margaux pour la stratégie communication",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · Ecume · n°211",
     "rdv_demandes": ""
   },
   "DJaczT5rgcWF-wK6": {
@@ -2017,7 +2007,7 @@
       }
     ],
     "accompagnement": "Margaux pour la stratégie communication",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Bayeux 6",
     "rdv_demandes": "QOVOLTIS"
   },
   "lt7uNWQzGKTIHTAV": {
@@ -2074,7 +2064,7 @@
       }
     ],
     "accompagnement": "Rania pour la fidélité et l’avis client",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · Ecume · n°210",
     "rdv_demandes": ""
   },
   "6k7WK0lhqTpWTmIY": {
@@ -2131,7 +2121,7 @@
       }
     ],
     "accompagnement": "Margaux pour la stratégie communication",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · Ecume · n° 208",
     "rdv_demandes": ""
   },
   "q4kmQNoGc3hE00Q9": {
@@ -2183,7 +2173,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Information à demander à l’accueil",
     "rdv_demandes": ""
   },
   "aCGRtXcCkrGkzSdV": {
@@ -2227,7 +2217,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Fontaine  · Henry 4",
     "rdv_demandes": ""
   },
   "f53Pp_V7e4WZlxVz": {
@@ -2279,7 +2269,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · Ecume 207",
     "rdv_demandes": ""
   },
   "NrumAdBMHNdjxR7s": {
@@ -2336,7 +2326,7 @@
       }
     ],
     "accompagnement": "Romane pour les catalogues, \nMargaux pour la stratégie communication",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · Ecume · n°2",
     "rdv_demandes": ""
   },
   "vpHLH4rLUj68URuN": {
@@ -2388,7 +2378,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · Ecume · 206",
     "rdv_demandes": ""
   },
   "FRsuE8MA59A-NqX0": {
@@ -2441,7 +2431,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Crépon 1",
     "rdv_demandes": ""
   },
   "gq1WH5UtYCst5Ro_": {
@@ -2494,7 +2484,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Bayeux 5",
     "rdv_demandes": ""
   },
   "fRverDvB_lDSiT-W": {
@@ -2546,7 +2536,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Lantheuil · 2",
     "rdv_demandes": ""
   },
   "tbDyQRbC4IbqnhtT": {
@@ -2598,7 +2588,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · La Villa · chambre · 35",
     "rdv_demandes": ""
   },
   "yjkFAqTJyCLTV-m-": {
@@ -2650,7 +2640,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · La Villa · chambre · 36",
     "rdv_demandes": ""
   },
   "2QRhAYY_TIfeFCVs": {
@@ -2703,7 +2693,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · Ecume · n°1",
     "rdv_demandes": ""
   },
   "Xkct58EsShkvm_4z": {
@@ -2755,7 +2745,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Fontaine · Henry 2",
     "rdv_demandes": ""
   },
   "mD_pmYS0MirwwGeA": {
@@ -2799,7 +2789,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · Ecume · n°12",
     "rdv_demandes": ""
   },
   "X9IUPF-mX9v9dD5P": {
@@ -2852,7 +2842,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Crépon 6",
     "rdv_demandes": ""
   },
   "GHhCBZldCLJgwt2H": {
@@ -2904,7 +2894,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Information à demander à l’accueil",
     "rdv_demandes": ""
   },
   "G1AixNkcacJ5TVMF": {
@@ -2949,7 +2939,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · St Come 9",
     "rdv_demandes": ""
   },
   "GnW5I9z9Ro5m_VWE": {
@@ -3002,7 +2992,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · St Come 10",
     "rdv_demandes": ""
   },
   "Fn9RhkuZ_N8SjVS-": {
@@ -3055,7 +3045,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Crépon 2",
     "rdv_demandes": ""
   },
   "hvBHbzeKq18HfCf1": {
@@ -3108,7 +3098,7 @@
       }
     ],
     "accompagnement": "Rania pour la fidélité et l’avis client",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · Ecume · n° 6",
     "rdv_demandes": ""
   },
   "VWBuxGcIDKx7GuXk": {
@@ -3165,7 +3155,7 @@
       }
     ],
     "accompagnement": "Margaux pour la stratégie communication",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · Ecume · n° 209",
     "rdv_demandes": ""
   },
   "WosBnq9WWDR4bjXJ": {
@@ -3222,7 +3212,7 @@
       }
     ],
     "accompagnement": "Margaux pour la stratégie communication",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · St Gabriel 1",
     "rdv_demandes": ""
   },
   "XGNhargIowwKH4H8": {
@@ -3270,7 +3260,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · Ecume · n° 202",
     "rdv_demandes": ""
   },
   "uaAE4Is1hnyIieJa": {
@@ -3322,7 +3312,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · Ecume · n° 203",
     "rdv_demandes": ""
   },
   "N5PZBleeXDlyayvI": {
@@ -3379,7 +3369,7 @@
       }
     ],
     "accompagnement": "Margaux pour la stratégie communication",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · Ecume · n° 7",
     "rdv_demandes": ""
   },
   "xk7wejIZdFU2_IH7": {
@@ -3436,7 +3426,7 @@
       }
     ],
     "accompagnement": "Margaux pour la stratégie communication",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · St Come 8",
     "rdv_demandes": ""
   },
   "MDLo9lUgRNam9jXu": {
@@ -3488,7 +3478,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · Ecume · n° 205",
     "rdv_demandes": ""
   },
   "W7IVHv9w3kNvZ7K7": {
@@ -3540,7 +3530,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Information à demander à l’accueil",
     "rdv_demandes": ""
   },
   "Wu8uxrh7uwALJj3b": {
@@ -3597,7 +3587,7 @@
       }
     ],
     "accompagnement": "Margaux pour la stratégie communication",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · Ecume · n°8",
     "rdv_demandes": ""
   },
   "akToaoQZNhsBi9f4": {
@@ -3649,7 +3639,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · Ecume · n°204",
     "rdv_demandes": ""
   },
   "7fuKl2KUQbeJJMik": {
@@ -3706,7 +3696,7 @@
       }
     ],
     "accompagnement": "Romane pour les catalogues",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Chalet · Arromanches",
     "rdv_demandes": ""
   },
   "oRcriwW-JlloCFkd": {
@@ -3758,7 +3748,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Thaon 4",
     "rdv_demandes": ""
   },
   "pWeurUxiFo4SiK4l": {
@@ -3811,7 +3801,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · St Come 11",
     "rdv_demandes": "METRO, QOVOLTIS, LE CEDRE"
   },
   "I_z3kvgE4-WBcNde": {
@@ -3863,7 +3853,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · St Gabriel 2",
     "rdv_demandes": ""
   },
   "tvGQDE7tE5VP5Wpr": {
@@ -3915,7 +3905,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Information à demander à l’accueil",
     "rdv_demandes": ""
   },
   "UDf4iJl_KrOQvodu": {
@@ -3972,7 +3962,7 @@
       }
     ],
     "accompagnement": "Margaux pour la stratégie communication",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · Ecume n° 9",
     "rdv_demandes": ""
   },
   "12HOkd-EDg--pVib": {
@@ -4029,7 +4019,7 @@
       }
     ],
     "accompagnement": "Margaux pour la stratégie communication",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Bayeux 4",
     "rdv_demandes": ""
   },
   "8teoh-4u7Xgkm_iu": {
@@ -4086,7 +4076,7 @@
       }
     ],
     "accompagnement": "Rania pour la fidélité et l’avis client",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · Ecume n°10",
     "rdv_demandes": "SKELLO"
   },
   "jbeG6BdQ86JI48hE": {
@@ -4138,7 +4128,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Bayeux 2",
     "rdv_demandes": ""
   },
   "ZOljRS58d_j2RSXo": {
@@ -4183,7 +4173,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Belle Epoque · Manoir 2",
     "rdv_demandes": ""
   },
   "goHF0YD40a26lubU": {
@@ -4228,7 +4218,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Winston Churchill · Manoir 3",
     "rdv_demandes": ""
   },
   "u8oqTW_EyjUqICGm": {
@@ -4273,7 +4263,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · La Villa 32",
     "rdv_demandes": ""
   },
   "8HnmGm6fyWJdxNW1": {
@@ -4317,7 +4307,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · Rose des · Vents 46",
     "rdv_demandes": ""
   },
   "-FudWxVQEBlU_PiJ": {
@@ -4361,7 +4351,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · Rose des · Vents 47",
     "rdv_demandes": ""
   },
   "yjay6fHMkX9oRW-4": {
@@ -4405,7 +4395,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · Rose des · Vents 45",
     "rdv_demandes": ""
   },
   "JLbxAoVkCoFtgCfA": {
@@ -4458,7 +4448,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Bayeux 3",
     "rdv_demandes": "METRO, HESPERIDE"
   },
   "KErDV8wYi8wZLNZ1": {
@@ -4510,7 +4500,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Information à demander à l’accueil",
     "rdv_demandes": ""
   },
   "dg7X1xtrSEHPeIkb": {
@@ -4563,7 +4553,7 @@
       }
     ],
     "accompagnement": "Rania pour la fidélité et l’avis client, \nRomane pour les catalogues, \nMargaux pour la stratégie communication",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · St Gabriel 3",
     "rdv_demandes": ""
   },
   "WaEbE2k65Kq4MnPx": {
@@ -4611,7 +4601,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Information à demander à l’accueil",
     "rdv_demandes": ""
   },
   "ydCtynk9954C55s7": {
@@ -4659,7 +4649,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Information à demander à l’accueil",
     "rdv_demandes": ""
   },
   "Hs0w2pyntBBQ5Les": {
@@ -4703,7 +4693,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Information à demander à l’accueil",
     "rdv_demandes": ""
   },
   "RTXprTEZH0ieRPmY": {
@@ -4748,7 +4738,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Anellis · Manoir 1",
     "rdv_demandes": ""
   },
   "ygo67-1E4uvVjrxH": {
@@ -4792,7 +4782,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Information à demander à l’accueil",
     "rdv_demandes": ""
   },
   "7YviIogeObzWqOEw": {
@@ -4849,7 +4839,7 @@
       }
     ],
     "accompagnement": "Rania pour la fidélité et l’avis client",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Bayeux 1",
     "rdv_demandes": ""
   },
   "rYsjr3Kq14eH99ze": {
@@ -4906,7 +4896,7 @@
       }
     ],
     "accompagnement": "Margaux pour la stratégie communication",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Lantheuil 1",
     "rdv_demandes": ""
   },
   "Yc2LFcHLPNhGVoZT": {
@@ -4963,7 +4953,7 @@
       }
     ],
     "accompagnement": "Margaux pour la stratégie communication",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · St Come 3",
     "rdv_demandes": ""
   },
   "zUmTUxh5a_WpIP3d": {
@@ -5008,7 +4998,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Chalet Ryes",
     "rdv_demandes": ""
   },
   "IdR_5HPuzD7cCdax": {
@@ -5053,7 +5043,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Chalet Tracy sur mer",
     "rdv_demandes": ""
   },
   "-FDENjgMr2h3duqB": {
@@ -5098,7 +5088,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · St Come 4",
     "rdv_demandes": ""
   },
   "xV3MtLFU0bSzogXR": {
@@ -5142,7 +5132,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Thaon 3",
     "rdv_demandes": ""
   },
   "Hh3CfRX0laLFosE2": {
@@ -5187,7 +5177,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · Ecume n° 43",
     "rdv_demandes": ""
   },
   "127ysx8WRJsf_ep4": {
@@ -5231,7 +5221,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · Ecume n° 44",
     "rdv_demandes": ""
   },
   "ISKanVIogpel-KMn": {
@@ -5276,7 +5266,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · Ecume n° 42",
     "rdv_demandes": ""
   },
   "OItIzqebRz6DE4k9": {
@@ -5321,7 +5311,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Chalet Ryes",
     "rdv_demandes": ""
   },
   "5gBOxhMG3sxzl8Dj": {
@@ -5366,7 +5356,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · St Come 1",
     "rdv_demandes": ""
   },
   "bt0sHxxlryg6DdHU": {
@@ -5410,7 +5400,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Chalet Tracy · sur mer",
     "rdv_demandes": ""
   },
   "h3aRycoRYjsU_Swy": {
@@ -5455,7 +5445,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · St Come 12",
     "rdv_demandes": ""
   },
   "4BUpaqX6hiul-BlH": {
@@ -5499,7 +5489,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Information à demander à l’accueil",
     "rdv_demandes": ""
   },
   "bVq9eWlE2zp-gAXR": {
@@ -5544,7 +5534,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · St Come 2",
     "rdv_demandes": ""
   },
   "IxVGJXUpUJjwjPWO": {
@@ -5589,7 +5579,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · La Villa 33",
     "rdv_demandes": ""
   },
   "bwewcp0O8K-luZyZ": {
@@ -5633,7 +5623,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · La Villa 31",
     "rdv_demandes": ""
   },
   "_viHjq_TUXsdyX_D": {
@@ -5678,7 +5668,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · La Villa 34",
     "rdv_demandes": ""
   },
   "jP73nQNSRn1cTT8V": {
@@ -5723,7 +5713,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · La Villa 30",
     "rdv_demandes": ""
   },
   "QVELaxeTERbA-jei": {
@@ -5768,7 +5758,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Chalet Ver  · sur Mer",
     "rdv_demandes": ""
   },
   "rljMsY3L8lH56FGJ": {
@@ -5812,7 +5802,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Chalet Vaux · sur Aure",
     "rdv_demandes": ""
   },
   "QLXmJshvgrgA2Edm": {
@@ -5857,7 +5847,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · La Rose des · Vents 41",
     "rdv_demandes": ""
   },
   "5zOLX4bup42o4rxF": {
@@ -5902,7 +5892,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · St Gabriel 4",
     "rdv_demandes": ""
   },
   "KMbI57h7cM4mmNcV": {
@@ -5946,7 +5936,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Lantheuil 3",
     "rdv_demandes": ""
   },
   "8_SieOdmuOkspQ1K": {
@@ -5990,7 +5980,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Lantheuil 4",
     "rdv_demandes": ""
   },
   "_LRglFPXPrCyHxgM": {
@@ -6035,7 +6025,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · St Come 2",
     "rdv_demandes": ""
   },
   "FCxgTSe61oo-WTtw": {
@@ -6080,7 +6070,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Chalet Ver · sur mer",
     "rdv_demandes": ""
   },
   "ZQ6Lt-pWJfbIalUV": {
@@ -6124,7 +6114,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Chalet Vaux · sur Aure",
     "rdv_demandes": ""
   },
   "X71zumM7fDrwCdTg": {
@@ -6169,7 +6159,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · St Gabriel 4",
     "rdv_demandes": ""
   },
   "FO7NXmGfPXKuSdQJ": {
@@ -6213,7 +6203,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tamaris · La villa 39",
     "rdv_demandes": ""
   },
   "h3F93UsQnNpea53O": {
@@ -6257,7 +6247,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Lantheuil 4",
     "rdv_demandes": ""
   },
   "8q19IV9pZf72DW01": {
@@ -6302,7 +6292,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · St Come 2",
     "rdv_demandes": ""
   },
   "Ifw8SgL1GzOfiAsV": {
@@ -6346,7 +6336,7 @@
         ]
       }
     ],
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · St Come 2",
     "rdv_demandes": ""
   },
   "aLMD9cUsy56HfGxO": {
@@ -6391,7 +6381,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · St Come 4",
     "rdv_demandes": ""
   },
   "JseQ03Ocq_Ate9W1": {
@@ -6436,7 +6426,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Tourelles · Lantheuil 3",
     "rdv_demandes": ""
   },
   "qa4_YSkIArvvuoSd": {
@@ -6481,7 +6471,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Information à demander à l’accueil",
     "rdv_demandes": ""
   },
   "zhzlBigsJW6yIvSd": {
@@ -6526,7 +6516,7 @@
       }
     ],
     "accompagnement": "",
-    "chambre_info": "Votre numéro de chambre est communiqué par l’accueil de l’UDD.",
+    "chambre_info": "Information à demander à l’accueil",
     "rdv_demandes": ""
   }
 }
