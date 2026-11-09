@@ -637,11 +637,12 @@
     "email": "delphine.lepine@le-duchet.com"
   },
   {
-    "name": "DAGUISY Olivier",
-    "photo": "trombinoscope/olivier-daguisy.jpg",
+    "name": "BRABANT Sylvie",
+    "photo": "",
     "establishment": "VILLAGE CLUB THALASSA",
-    "function": "Directeur",
-    "email": "daguisy.olivier@semabath.fr"
+    "function": "Directrice adjointe",
+    "email": "",
+    "functionFilter": "Directrice adjointe"
   },
   {
     "name": "EMORINE Philippe",
