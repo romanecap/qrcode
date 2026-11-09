@@ -89,7 +89,7 @@
           },
           {
             "time": "17h15",
-            "title": "Activité sportive"
+            "title": "Activité extérieure · Choix déclaré : Activité sportive"
           },
           {
             "time": "19h00",
@@ -493,7 +493,7 @@
           },
           {
             "time": "17h15",
-            "title": "Activité sportive"
+            "title": "Activité extérieure · Choix déclaré : Activité sportive"
           },
           {
             "time": "19h00",
@@ -705,7 +705,7 @@
           },
           {
             "time": "17h15",
-            "title": "Visite culturelle"
+            "title": "Activité extérieure · Choix déclaré : Visite culturelle"
           },
           {
             "time": "19h00",
@@ -1080,7 +1080,7 @@
           },
           {
             "time": "17h15",
-            "title": "Repos au village"
+            "title": "Activité extérieure · Choix déclaré : Repos au village"
           },
           {
             "time": "19h00",
@@ -1268,7 +1268,7 @@
           },
           {
             "time": "17h15",
-            "title": "Activité sportive"
+            "title": "Activité extérieure · Choix déclaré : Activité sportive"
           },
           {
             "time": "19h00",
@@ -1473,7 +1473,7 @@
           },
           {
             "time": "17h15",
-            "title": "Activité sportive"
+            "title": "Activité extérieure · Choix déclaré : Activité sportive"
           },
           {
             "time": "19h00",
@@ -1662,7 +1662,7 @@
           },
           {
             "time": "17h15",
-            "title": "Visite culturelle"
+            "title": "Activité extérieure · Choix déclaré : Visite culturelle"
           },
           {
             "time": "19h00",
@@ -2063,7 +2063,7 @@
           },
           {
             "time": "17h15",
-            "title": "Repos au village"
+            "title": "Activité extérieure · Choix déclaré : Repos au village"
           },
           {
             "time": "19h00",
@@ -2652,7 +2652,7 @@
           },
           {
             "time": "17h15",
-            "title": "Visite culturelle"
+            "title": "Activité extérieure · Choix déclaré : Visite culturelle"
           },
           {
             "time": "19h00",
@@ -3228,7 +3228,7 @@
           },
           {
             "time": "17h15",
-            "title": "Activité sportive"
+            "title": "Activité extérieure · Choix déclaré : Activité sportive"
           },
           {
             "time": "19h00",
@@ -4410,7 +4410,7 @@
           },
           {
             "time": "17h15",
-            "title": "Activité sportive"
+            "title": "Activité extérieure · Choix déclaré : Activité sportive"
           },
           {
             "time": "19h00",
@@ -4599,7 +4599,7 @@
           },
           {
             "time": "17h15",
-            "title": "Activité sportive"
+            "title": "Activité extérieure · Choix déclaré : Activité sportive"
           },
           {
             "time": "19h00",
@@ -5396,7 +5396,7 @@
           },
           {
             "time": "17h15",
-            "title": "Activité sportive"
+            "title": "Activité extérieure · Choix déclaré : Activité sportive"
           },
           {
             "time": "19h00",
@@ -5585,7 +5585,7 @@
           },
           {
             "time": "17h15",
-            "title": "Activité sportive"
+            "title": "Activité extérieure · Choix déclaré : Activité sportive"
           },
           {
             "time": "19h00",
@@ -5797,7 +5797,7 @@
           },
           {
             "time": "17h15",
-            "title": "Repos au village"
+            "title": "Activité extérieure · Choix déclaré : Repos au village"
           },
           {
             "time": "19h00",
@@ -6171,7 +6171,7 @@
           },
           {
             "time": "17h15",
-            "title": "Visite culturelle"
+            "title": "Activité extérieure · Choix déclaré : Visite culturelle"
           },
           {
             "time": "19h00",
@@ -6562,7 +6562,7 @@
           },
           {
             "time": "17h15",
-            "title": "Visite culturelle"
+            "title": "Activité extérieure · Choix déclaré : Visite culturelle"
           },
           {
             "time": "19h00",
@@ -6751,7 +6751,7 @@
           },
           {
             "time": "17h15",
-            "title": "Visite culturelle"
+            "title": "Activité extérieure · Choix déclaré : Visite culturelle"
           },
           {
             "time": "19h00",
@@ -6859,195 +6859,6 @@
     ],
     "chambre_attribuee": "Tourelles Bayeux 6"
   },
-  "lt7uNWQzGKTIHTAV": {
-    "name": "Gaëlle TANGUY",
-    "subtitle": "LE GRAND FOURCHON  · Directrice",
-    "days": [
-      {
-        "title": "Lundi 23 novembre",
-        "items": [
-          {
-            "time": "09h00",
-            "title": "Introduction — Damien Duval"
-          },
-          {
-            "time": "09h30",
-            "title": "Comment le marché groupe évolue et se renouvelle ? — Didier Arino"
-          },
-          {
-            "time": "10h40",
-            "title": "Pause café"
-          },
-          {
-            "time": "11h00",
-            "title": "La nouvelle stratégie groupe 2027 : innover pour rester leader — Benoît Dubois et Damien Duval"
-          },
-          {
-            "time": "11h40",
-            "title": "Présentation de la refonte des supports print — Nicolas de Montmarin"
-          },
-          {
-            "time": "12h30",
-            "title": "Déjeuner"
-          },
-          {
-            "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 2"
-          },
-          {
-            "time": "16h00",
-            "title": "Restitution et synthèse"
-          },
-          {
-            "time": "16h10",
-            "title": "Activité extérieure : char à voile (team building)"
-          },
-          {
-            "time": "19h00",
-            "title": "Apéritif"
-          },
-          {
-            "time": "20h00",
-            "title": "Dîner"
-          }
-        ]
-      },
-      {
-        "title": "Mardi 24 novembre",
-        "items": [
-          {
-            "time": "09h00",
-            "title": "Un an après Roz Armor : enseignements des audits commerciaux — Francis Rosales"
-          },
-          {
-            "time": "10h15",
-            "title": "Pause café"
-          },
-          {
-            "time": "10h30",
-            "title": "Tarification dynamique : comprendre cet outil de commercialisation — Alice Zakine"
-          },
-          {
-            "time": "11h30",
-            "title": "IA et gestion : optimiser une journée type de direction — Vincent Vandevelde"
-          },
-          {
-            "time": "12h30",
-            "title": "Déjeuner"
-          },
-          {
-            "time": "14h00",
-            "title": "MON ATELIER · Comprendre son positionnement tarifaire grâce au yield"
-          },
-          {
-            "time": "15h30",
-            "title": "Pause"
-          },
-          {
-            "time": "15h45",
-            "title": "MON ATELIER · Construire un plan commercial simple"
-          },
-          {
-            "time": "17h15",
-            "title": "Visite culturelle"
-          },
-          {
-            "time": "19h00",
-            "title": "Apéritif"
-          },
-          {
-            "time": "20h00",
-            "title": "Dîner"
-          }
-        ]
-      },
-      {
-        "title": "Mercredi 25 novembre",
-        "items": [
-          {
-            "time": "09h00",
-            "title": "Planifier et anticiper ses produits d’animation — Vincent Leclerc"
-          },
-          {
-            "time": "10h30",
-            "title": "Pause café"
-          },
-          {
-            "time": "10h45",
-            "title": "Objectifs de performance : impliquer les équipes — Formatourisme"
-          },
-          {
-            "time": "11h45",
-            "title": "Valoriser ses produits et ses engagements dans sa commercialisation — Margaux Carlier"
-          },
-          {
-            "time": "12h30",
-            "title": "Déjeuner"
-          },
-          {
-            "time": "14h00",
-            "title": "MON ATELIER · Bien gérer sa cuisine sans être chef : la place de la direction dans l’équilibre budgétaire"
-          },
-          {
-            "time": "15h30",
-            "title": "Pause"
-          },
-          {
-            "time": "15h45",
-            "title": "MON ATELIER · Créer sa boîte à activités : le cadre et le suivi"
-          },
-          {
-            "time": "17h15",
-            "title": "Speed dating partenaires Capfrance (sur inscription, créneaux de 15 min)"
-          },
-          {
-            "time": "19h30",
-            "title": "Apéritif"
-          },
-          {
-            "time": "20h00",
-            "title": "Dîner de gala (tenue de gala exigée) et remise des Cap Awards 2026"
-          }
-        ]
-      },
-      {
-        "title": "Jeudi 26 novembre",
-        "items": [
-          {
-            "time": "09h00",
-            "title": "Mutualiser les achats d’énergie — Le Cèdre"
-          },
-          {
-            "time": "10h00",
-            "title": "Présentation du plan de formation 2027 — Serge Villeneuve et Damien Duval"
-          },
-          {
-            "time": "10h30",
-            "title": "Pause café"
-          },
-          {
-            "time": "10h40",
-            "title": "Premier bilan annuel du suivi des assurances Capfrance — Gritchen"
-          },
-          {
-            "time": "11h30",
-            "title": "Conclusion"
-          },
-          {
-            "time": "12h00",
-            "title": "Déjeuner"
-          },
-          {
-            "time": "14h00",
-            "title": "Fin de la 23ᵉ UDD"
-          }
-        ]
-      }
-    ],
-    "activite_choisie": "Visite culturelle",
-    "accompagnement_demande": "Rania pour la fidélité et l’avis client",
-    "chambre_attribuee": "Tamaris Ecume n°210"
-  },
   "6k7WK0lhqTpWTmIY": {
     "name": "Justine PASQUIER",
     "subtitle": "LA FERME DE COURCIMONT · Commerciale",
@@ -7134,11 +6945,11 @@
           },
           {
             "time": "15h45",
-            "title": "MON ATELIER · Comprendre son positionnement tarifaire grâce au yield"
+            "title": "MON ATELIER · Rendre sa commercialisation plus efficace avec les nouveaux outils IA"
           },
           {
             "time": "17h15",
-            "title": "Activité sportive"
+            "title": "Activité extérieure · Choix déclaré : Activité sportive"
           },
           {
             "time": "19h00",
@@ -7315,7 +7126,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Rendre sa commercialisation plus efficace avec les nouveaux outils IA"
+            "title": "MON ATELIER · Construire un plan commercial simple"
           },
           {
             "time": "15h30",
@@ -7323,7 +7134,7 @@
           },
           {
             "time": "15h45",
-            "title": "MON ATELIER · Comprendre son positionnement tarifaire grâce au yield"
+            "title": "MON ATELIER · Rendre sa commercialisation plus efficace avec les nouveaux outils IA"
           },
           {
             "time": "17h15",
@@ -7364,7 +7175,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Créer sa boîte à activités : le cadre et le suivi"
+            "title": "MON ATELIER · Mettre en place des processus simples pour sécuriser ses supports web"
           },
           {
             "time": "15h30",
@@ -7889,7 +7700,7 @@
           },
           {
             "time": "17h15",
-            "title": "Visite culturelle"
+            "title": "Activité extérieure · Choix déclaré : Visite culturelle"
           },
           {
             "time": "19h00",
@@ -8311,7 +8122,7 @@
           },
           {
             "time": "17h15",
-            "title": "Repos au village"
+            "title": "Activité extérieure · Choix déclaré : Repos au village"
           },
           {
             "time": "19h00",
@@ -8515,7 +8326,7 @@
           },
           {
             "time": "17h15",
-            "title": "Visite culturelle"
+            "title": "Activité extérieure · Choix déclaré : Visite culturelle"
           },
           {
             "time": "19h00",
@@ -9845,7 +9656,7 @@
           },
           {
             "time": "17h15",
-            "title": "Visite culturelle"
+            "title": "Activité extérieure · Choix déclaré : Visite culturelle"
           },
           {
             "time": "19h00",
@@ -10235,7 +10046,7 @@
           },
           {
             "time": "17h15",
-            "title": "Repos au village"
+            "title": "Activité extérieure · Choix déclaré : Repos au village"
           },
           {
             "time": "19h00",
@@ -10619,7 +10430,7 @@
           },
           {
             "time": "17h15",
-            "title": "Activité sportive"
+            "title": "Activité extérieure · Choix déclaré : Activité sportive"
           },
           {
             "time": "19h00",
@@ -10998,7 +10809,7 @@
           },
           {
             "time": "17h15",
-            "title": "Activité sportive"
+            "title": "Activité extérieure · Choix déclaré : Activité sportive"
           },
           {
             "time": "19h00",
@@ -11374,7 +11185,7 @@
           },
           {
             "time": "17h15",
-            "title": "Activité sportive"
+            "title": "Activité extérieure · Choix déclaré : Activité sportive"
           },
           {
             "time": "19h00",
@@ -12137,7 +11948,7 @@
           },
           {
             "time": "17h15",
-            "title": "Visite culturelle"
+            "title": "Activité extérieure · Choix déclaré : Visite culturelle"
           },
           {
             "time": "19h00",
@@ -12720,7 +12531,7 @@
           },
           {
             "time": "17h15",
-            "title": "Visite culturelle"
+            "title": "Activité extérieure · Choix déclaré : Visite culturelle"
           },
           {
             "time": "19h00",
@@ -13117,7 +12928,7 @@
           },
           {
             "time": "17h15",
-            "title": "Visite culturelle"
+            "title": "Activité extérieure · Choix déclaré : Visite culturelle"
           },
           {
             "time": "19h00",
@@ -13315,7 +13126,7 @@
           },
           {
             "time": "17h15",
-            "title": "Visite culturelle"
+            "title": "Activité extérieure · Choix déclaré : Visite culturelle"
           },
           {
             "time": "19h00",
@@ -13415,7 +13226,7 @@
   },
   "oRcriwW-JlloCFkd": {
     "name": "Sandra LEONARD",
-    "subtitle": "SOLEIL EVASION · Agent réservation",
+    "subtitle": "SOLEIL EVASION · Responsable du Pôle Réservations Commercialisation",
     "days": [
       {
         "title": "Lundi 23 novembre",
@@ -13693,7 +13504,7 @@
           },
           {
             "time": "17h15",
-            "title": "Activité sportive"
+            "title": "Activité extérieure · Choix déclaré : Activité sportive"
           },
           {
             "time": "19h00",
@@ -14275,7 +14086,7 @@
           },
           {
             "time": "17h15",
-            "title": "Visite culturelle"
+            "title": "Activité extérieure · Choix déclaré : Visite culturelle"
           },
           {
             "time": "19h00",
@@ -14681,7 +14492,7 @@
           },
           {
             "time": "17h15",
-            "title": "Activité sportive"
+            "title": "Activité extérieure · Choix déclaré : Activité sportive"
           },
           {
             "time": "19h00",
@@ -16182,7 +15993,7 @@
           },
           {
             "time": "17h15",
-            "title": "Visite culturelle"
+            "title": "Activité extérieure · Choix déclaré : Visite culturelle"
           },
           {
             "time": "19h00",
@@ -16556,7 +16367,7 @@
           },
           {
             "time": "17h15",
-            "title": "Repos au village"
+            "title": "Activité extérieure · Choix déclaré : Repos au village"
           },
           {
             "time": "19h00",
@@ -17520,7 +17331,7 @@
           },
           {
             "time": "17h15",
-            "title": "Visite culturelle"
+            "title": "Activité extérieure · Choix déclaré : Visite culturelle"
           },
           {
             "time": "19h00",
@@ -17709,7 +17520,7 @@
           },
           {
             "time": "17h15",
-            "title": "Activité sportive"
+            "title": "Activité extérieure · Choix déclaré : Activité sportive"
           },
           {
             "time": "19h00",
@@ -24852,7 +24663,7 @@
           },
           {
             "time": "17h15",
-            "title": "Repos au village"
+            "title": "Activité extérieure · Choix déclaré : Repos au village"
           },
           {
             "time": "19h00",

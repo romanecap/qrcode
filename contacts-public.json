@@ -245,13 +245,6 @@
     "email": "natacha@chaletdelahautejoux.com"
   },
   {
-    "name": "TANGUY Gaëlle",
-    "photo": "trombinoscope/tanguy-gaelle.jpg",
-    "establishment": "LE GRAND FOURCHON",
-    "function": "Directrice",
-    "email": "dir.legrandfourchon@aec-vacances.com"
-  },
-  {
     "name": "PASQUIER Justine",
     "photo": "trombinoscope/justine-pasquier.jpg",
     "establishment": "LA FERME DE COURCIMONT",
@@ -486,7 +479,7 @@
     "name": "LEONARD Sandra",
     "photo": "trombinoscope/leonard-sandra.jpg",
     "establishment": "SOLEIL EVASION",
-    "function": "Agent réservation",
+    "function": "Responsable du Pôle Réservations Commercialisation",
     "email": ""
   },
   {
