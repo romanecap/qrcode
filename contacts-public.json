@@ -309,7 +309,7 @@
   },
   {
     "name": "LEGRAND Florie",
-    "photo": "",
+    "photo": "trombinoscope/legrand-florie.jpg",
     "establishment": "LA SAULAIE",
     "function": "Responsable administrative",
     "email": "vacances@lasaulaie.fr"
@@ -319,7 +319,7 @@
     "photo": "",
     "establishment": "LA SAULAIE",
     "function": "Responsable groupes et scolaires",
-    "email": ""
+    "email": "groupe@lasaulaie.fr"
   },
   {
     "name": "BAYON Caroline",
@@ -480,7 +480,7 @@
     "photo": "trombinoscope/leonard-sandra.jpg",
     "establishment": "SOLEIL EVASION",
     "function": "Responsable du Pôle Réservations Commercialisation",
-    "email": ""
+    "email": "groupes@soleilevasion.fr"
   },
   {
     "name": "DARFEUILLE Muriel",
@@ -641,7 +641,7 @@
     "photo": "",
     "establishment": "VILLAGE CLUB THALASSA",
     "function": "Directrice adjointe",
-    "email": "",
+    "email": "comptabilite@semabath.fr",
     "functionFilter": "Directrice adjointe"
   },
   {
@@ -730,7 +730,7 @@
   },
   {
     "name": "DE PENFENTENYO Martin",
-    "photo": "",
+    "photo": "trombinoscope/de-penfentenyo-martin.jpg",
     "establishment": "LE CÈDRE",
     "function": "Prestataire",
     "email": "m.depenfentenyo@lecedre.fr"
@@ -779,7 +779,7 @@
   },
   {
     "name": "MAUGE Stéphane",
-    "photo": "",
+    "photo": "trombinoscope/mauge-stephane.jpg",
     "establishment": "ECONOMICTEL",
     "function": "Prestataire",
     "email": "stephanemauge@economictel.fr"
@@ -817,7 +817,7 @@
     "photo": "",
     "establishment": "METRO FRANCE",
     "function": "Prestataire",
-    "email": ""
+    "email": "zohra.bigdade@metro.fr"
   },
   {
     "name": "DOISNE Ludivine",
@@ -856,7 +856,7 @@
   },
   {
     "name": "ZAKINE Alice",
-    "photo": "",
+    "photo": "trombinoscope/zakine-alice.png",
     "establishment": "XPERTEO",
     "function": "Intervenante",
     "email": "azakine@xperteo.com"
@@ -877,7 +877,7 @@
   },
   {
     "name": "CRAUNOT Ethan",
-    "photo": "",
+    "photo": "trombinoscope/craunot-ethan.jpg",
     "establishment": "SKELLO",
     "function": "Prestataire",
     "email": "ethan.craunot@skello.io"
