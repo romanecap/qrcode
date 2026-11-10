@@ -3856,7 +3856,7 @@
         "status": "Rendez-vous programmé"
       }
     ],
-    "chambre_attribuee": "Tourelles MAURICE SCHUMANN Manoir 4"
+    "chambre_attribuee": "Tourelles Maurice Schumann – Manoir 4"
   },
   "uKGvX4Aa4cm_kTjT": {
     "name": "Isabelle BLOTTIERE",
@@ -4042,7 +4042,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Maurice Schumann – Manoir 4"
   },
   "yPzaJ9WKPbYCpsUv": {
     "name": "Lucas SORRONTINO",
@@ -8475,7 +8476,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Lantheuil 2"
   },
   "tbDyQRbC4IbqnhtT": {
     "name": "Florie LEGRAND",
@@ -13356,7 +13358,8 @@
         ]
       }
     ],
-    "activite_choisie": "Activité sportive"
+    "activite_choisie": "Activité sportive",
+    "chambre_attribuee": "Tourelles Saint Côme 11"
   },
   "I_z3kvgE4-WBcNde": {
     "name": "Max DARFEUILLE",
@@ -15993,7 +15996,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Bayeux 3"
   },
   "dg7X1xtrSEHPeIkb": {
     "name": "Nathalie CANDAU",
@@ -16360,7 +16364,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Pas de chambre – réside sur place"
   },
   "ydCtynk9954C55s7": {
     "name": "Nelly SONZOGNI",
@@ -16542,7 +16547,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Pas de chambre – réside sur place"
   },
   "RTXprTEZH0ieRPmY": {
     "name": "Odile QUIEVRE",
@@ -19641,7 +19647,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Saint Côme 1 (du 23 au 26 novembre)"
   },
   "h3aRycoRYjsU_Swy": {
     "name": "Vincent LECLERC",
@@ -21163,7 +21170,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Chalet Ver-sur-Mer (du 22 au 23 novembre)"
   },
   "rljMsY3L8lH56FGJ": {
     "name": "Vickie MANCHETTE",
@@ -23705,7 +23713,8 @@
         "organization": "Marc et Montmija",
         "status": "Rendez-vous demandé"
       }
-    ]
+    ],
+    "chambre_attribuee": "Pas de chambre attribuée"
   },
   "Ifw8SgL1GzOfiAsV": {
     "name": "Julien TABOURET",
@@ -23896,7 +23905,8 @@
         "organization": "Marc et Montmija",
         "status": "Rendez-vous demandé"
       }
-    ]
+    ],
+    "chambre_attribuee": "Pas de chambre attribuée"
   },
   "aLMD9cUsy56HfGxO": {
     "name": "Alice ZAKINE",
@@ -24695,6 +24705,7 @@
         "status": "Créneau de votre entreprise",
         "kind": "company"
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Saint Côme 2 (du 25 au 26 novembre)"
   }
 }
