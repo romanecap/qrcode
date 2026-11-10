@@ -215,7 +215,8 @@
         "organization": "OSMOZIS",
         "status": "Rendez-vous demandé"
       }
-    ]
+    ],
+    "chambre_attribuee": "Tamaris L’Écume n°3"
   },
   "PgtTLjqsq_D9ctes": {
     "name": "Patrice JODET",
@@ -401,7 +402,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Thaon 2"
   },
   "ctAjbi3Ge5n6ZBip": {
     "name": "Stéphane ROY",
@@ -988,7 +990,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Bayeux 7"
   },
   "TigJrruGiXh1sibf": {
     "name": "Régine GALTIER",
@@ -1176,7 +1179,7 @@
       }
     ],
     "activite_choisie": "Repos au village",
-    "chambre_attribuee": "Tamaris Ecume n°11"
+    "chambre_attribuee": "Tamaris L’Écume n°11"
   },
   "DQpxYyodjqFmTc45": {
     "name": "Marc SARRET",
@@ -1570,7 +1573,7 @@
     ],
     "activite_choisie": "Activité sportive",
     "accompagnement_demande": "Margaux pour la stratégie communication",
-    "chambre_attribuee": "Tourelles Chalet longues sur mer"
+    "chambre_attribuee": "Tourelles Chalet Longues sur mer"
   },
   "nRF50spt2uOl5a8U": {
     "name": "Véronique BODE",
@@ -1781,7 +1784,8 @@
         "organization": "LE CEDRE",
         "status": "Rendez-vous demandé"
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Chalet Amblie"
   },
   "DhjEPSF_PveKQSmH": {
     "name": "Jonathan ZABOWSKI",
@@ -1971,7 +1975,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Thaon 1"
   },
   "UWDx1lIwgQzNKGSs": {
     "name": "Jean-Christophe VEAUX",
@@ -2188,7 +2193,8 @@
         "organization": "OSMOZIS",
         "status": "Rendez-vous demandé"
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Saint Côme 6"
   },
   "PA-llgtm86QNoAEp": {
     "name": "Sonia VEAUX",
@@ -2374,7 +2380,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Saint Côme 6"
   },
   "_ON0NA_R9jbKGC06": {
     "name": "Carole DELIAT",
@@ -2560,7 +2567,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Caen 2"
   },
   "gYe0tY9272O_rog4": {
     "name": "Grégory LEJEUNE",
@@ -2764,7 +2772,8 @@
         "organization": "FORMATOURISME",
         "status": "Rendez-vous demandé"
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Crépon 4"
   },
   "vfvdqboxva1cEAH9": {
     "name": "Laetitia FICHAUX",
@@ -2950,7 +2959,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Caen 3"
   },
   "bhohiVraazai7dMT": {
     "name": "Jeanne FLAHAUT",
@@ -3136,7 +3146,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Caen 4"
   },
   "jdV6vPylEI4b6_As": {
     "name": "Philippe RAMBAUD",
@@ -3354,7 +3365,8 @@
         "organization": "TEDIBER",
         "status": "Rendez-vous demandé"
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Crépon 3"
   },
   "coUleMTRu8jcNzDt": {
     "name": "Irina ANTONESCU",
@@ -3540,7 +3552,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Creully 1"
   },
   "zzsRlK9LvatbwbXS": {
     "name": "Marie BONHOMME",
@@ -3726,7 +3739,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Creully 2"
   },
   "kU-ZqFz_o5J_pv32": {
     "name": "Francis PONTUS",
@@ -3942,7 +3956,8 @@
         "organization": "CUSTOMER ALLIANCE",
         "status": "Rendez-vous demandé"
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles MAURICE SCHUMANN Manoir 4"
   },
   "uKGvX4Aa4cm_kTjT": {
     "name": "Isabelle BLOTTIERE",
@@ -4318,7 +4333,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Fontaine Henry 1"
   },
   "ic3obeJ6ZLMl-NFU": {
     "name": "Sylvain CHARDON",
@@ -4507,7 +4523,7 @@
     ],
     "activite_choisie": "Activité sportive",
     "accompagnement_demande": "Rania pour la fidélité et l’avis client",
-    "chambre_attribuee": "Tamaris Ecume n°4"
+    "chambre_attribuee": "Tamaris L’Écume n°4"
   },
   "s1PL4j1t7sQ6jtLY": {
     "name": "Emmanuelle POSSON",
@@ -4746,7 +4762,8 @@
         "organization": "AQUATIQUE VACANCES",
         "status": "Rendez-vous demandé"
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Saint Côme 5"
   },
   "F0Kr5e8PIVP-YiKB": {
     "name": "Didier BALLOT",
@@ -4932,7 +4949,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Saint Côme 7"
   },
   "bphFoyr5BS6bptM5": {
     "name": "Julien MESSAOUDI",
@@ -5118,7 +5136,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Fontaine Henry 3"
   },
   "Mm8DOSng3yGE827q": {
     "name": "Laure ROUAN",
@@ -5304,7 +5323,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Creully 3"
   },
   "6uh7lo4dwB64nAso": {
     "name": "Delphine PETITJEAN",
@@ -5705,7 +5725,7 @@
         "status": "Rendez-vous demandé"
       }
     ],
-    "chambre_attribuee": "Tamaris Ecume N°212"
+    "chambre_attribuee": "Tamaris L’Écume n°212"
   },
   "OLfNOzGxOsdc1vU8": {
     "name": "François-Xavier DUQUESNE",
@@ -5893,7 +5913,8 @@
       }
     ],
     "activite_choisie": "Repos au village",
-    "accompagnement_demande": "Margaux pour la stratégie communication"
+    "accompagnement_demande": "Margaux pour la stratégie communication",
+    "chambre_attribuee": "Tamaris L’Écume n°5"
   },
   "4nTjf7S3Hr96d8hk": {
     "name": "Sabine BOURDET",
@@ -6079,7 +6100,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Creully 4"
   },
   "xWPQlMgzThMcMEOr": {
     "name": "Florelle BIDON",
@@ -6470,7 +6492,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Bayeux 8"
   },
   "Uhqt09bYvmlP4BlU": {
     "name": "Anne LEQUIN",
@@ -6659,7 +6682,7 @@
     ],
     "activite_choisie": "Visite culturelle",
     "accompagnement_demande": "Margaux pour la stratégie communication",
-    "chambre_attribuee": "Tamaris Ecume n°211"
+    "chambre_attribuee": "Tamaris L’Écume n°211"
   },
   "DJaczT5rgcWF-wK6": {
     "name": "Natacha LAHAYE",
@@ -7046,7 +7069,7 @@
     ],
     "activite_choisie": "Activité sportive",
     "accompagnement_demande": "Margaux pour la stratégie communication",
-    "chambre_attribuee": "Tamaris Ecume n° 208"
+    "chambre_attribuee": "Tamaris L’Écume n°208"
   },
   "q4kmQNoGc3hE00Q9": {
     "name": "Mathilde VENON",
@@ -7232,7 +7255,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tamaris L’Écume n°208"
   },
   "aCGRtXcCkrGkzSdV": {
     "name": "Maria LEGALL",
@@ -7422,7 +7446,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Fontaine Henry 4"
   },
   "f53Pp_V7e4WZlxVz": {
     "name": "Ewen GOUSSET",
@@ -7608,7 +7633,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tamaris L’Écume n°207"
   },
   "NrumAdBMHNdjxR7s": {
     "name": "Stéphanie CRAMBES",
@@ -7840,7 +7866,8 @@
         "organization": "CUSTOMER ALLIANCE",
         "status": "Rendez-vous demandé"
       }
-    ]
+    ],
+    "chambre_attribuee": "Tamaris L’Écume n°2"
   },
   "vpHLH4rLUj68URuN": {
     "name": "Jade TURCATO",
@@ -8030,7 +8057,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tamaris L’Écume n°206"
   },
   "FRsuE8MA59A-NqX0": {
     "name": "Loïc ALLO",
@@ -8444,7 +8472,8 @@
         "organization": "OSMOZIS",
         "status": "Rendez-vous demandé"
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Bayeux 5"
   },
   "fRverDvB_lDSiT-W": {
     "name": "Garry FROGER",
@@ -8816,7 +8845,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tamaris La Villa n°35"
   },
   "yjkFAqTJyCLTV-m-": {
     "name": "Julie RAFFEAU",
@@ -9002,7 +9032,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tamaris La Villa n°36"
   },
   "2QRhAYY_TIfeFCVs": {
     "name": "Caroline BAYON",
@@ -9188,7 +9219,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tamaris L’Écume n°1"
   },
   "Xkct58EsShkvm_4z": {
     "name": "Jean-Pascal HUVELIN",
@@ -9374,7 +9406,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Fontaine Henry 2"
   },
   "mD_pmYS0MirwwGeA": {
     "name": "Bruno HERNOT",
@@ -9564,7 +9597,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Chalet Arromanches"
   },
   "X9IUPF-mX9v9dD5P": {
     "name": "Jean-François CAZE",
@@ -9954,7 +9988,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Crépon 6"
   },
   "G1AixNkcacJ5TVMF": {
     "name": "Stéphanie BRIDAY",
@@ -10142,7 +10177,7 @@
       }
     ],
     "activite_choisie": "Repos au village",
-    "chambre_attribuee": "Tourelles St Come 9"
+    "chambre_attribuee": "Tourelles Saint Côme 9"
   },
   "GnW5I9z9Ro5m_VWE": {
     "name": "Benoît DUBOIS",
@@ -10338,7 +10373,7 @@
         "status": "Rendez-vous demandé"
       }
     ],
-    "chambre_attribuee": "Tourelles St Come 10"
+    "chambre_attribuee": "Tourelles Saint Côme 10"
   },
   "Fn9RhkuZ_N8SjVS-": {
     "name": "Christophe SARTON",
@@ -10717,7 +10752,7 @@
         ]
       }
     ],
-    "chambre_attribuee": "Tamaris Ecume n° 6"
+    "chambre_attribuee": "Tamaris L’Écume n°6"
   },
   "VWBuxGcIDKx7GuXk": {
     "name": "Estelle MUSY",
@@ -10906,7 +10941,7 @@
     ],
     "activite_choisie": "Activité sportive",
     "accompagnement_demande": "Margaux pour la stratégie communication",
-    "chambre_attribuee": "Tamaris Ecume n° 209"
+    "chambre_attribuee": "Tamaris L’Écume n°209"
   },
   "WosBnq9WWDR4bjXJ": {
     "name": "Coralie SEM",
@@ -11093,7 +11128,7 @@
         ]
       }
     ],
-    "chambre_attribuee": "Tourelles St Gabriel 1"
+    "chambre_attribuee": "Tourelles Saint Gabriel 1"
   },
   "noBJq7TVAm-3nNL6": {
     "name": "Janine AYLING",
@@ -11281,7 +11316,8 @@
       }
     ],
     "activite_choisie": "Activité sportive",
-    "accompagnement_demande": "Margaux pour la stratégie communication"
+    "accompagnement_demande": "Margaux pour la stratégie communication",
+    "chambre_attribuee": "Tamaris L’Écume n°201"
   },
   "XGNhargIowwKH4H8": {
     "name": "Bruno BLUCHEAU",
@@ -11467,7 +11503,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tamaris L’Écume n°202"
   },
   "uaAE4Is1hnyIieJa": {
     "name": "Christelle RECOQUILLON-GAYAL",
@@ -11653,7 +11690,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tamaris L’Écume n°203"
   },
   "N5PZBleeXDlyayvI": {
     "name": "Laurent CHATOUREL",
@@ -11856,7 +11894,7 @@
         "status": "Rendez-vous demandé"
       }
     ],
-    "chambre_attribuee": "Tamaris Ecume n° 7"
+    "chambre_attribuee": "Tamaris L’Écume n°7"
   },
   "xk7wejIZdFU2_IH7": {
     "name": "Christophe BERNARD",
@@ -12067,7 +12105,8 @@
         "organization": "CUSTOMER ALLIANCE",
         "status": "Rendez-vous demandé"
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Saint Côme 8"
   },
   "MDLo9lUgRNam9jXu": {
     "name": "Agnès BERNARD",
@@ -12253,7 +12292,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Saint Côme 8"
   },
   "W7IVHv9w3kNvZ7K7": {
     "name": "Nicolas VIDAL",
@@ -12439,7 +12479,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tamaris L’Écume n°205"
   },
   "Wu8uxrh7uwALJj3b": {
     "name": "Sylvain DUCHEMIN",
@@ -12650,7 +12691,8 @@
         "organization": "VINCENT LECLERC",
         "status": "Rendez-vous demandé"
       }
-    ]
+    ],
+    "chambre_attribuee": "Tamaris L’Écume n°8"
   },
   "akToaoQZNhsBi9f4": {
     "name": "Agnès HERNANDEZ",
@@ -12836,7 +12878,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tamaris L’Écume n°204"
   },
   "l1KSJgaq0bR43aLi": {
     "name": "Stéphane GRENIER",
@@ -13222,7 +13265,8 @@
       }
     ],
     "activite_choisie": "Visite culturelle",
-    "accompagnement_demande": "Romane pour les catalogues"
+    "accompagnement_demande": "Romane pour les catalogues",
+    "chambre_attribuee": "Tamaris L’Écume n°12"
   },
   "oRcriwW-JlloCFkd": {
     "name": "Sandra LEONARD",
@@ -13412,7 +13456,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Thaon 4"
   },
   "pWeurUxiFo4SiK4l": {
     "name": "Muriel DARFEUILLE",
@@ -13785,7 +13830,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Saint Côme 11"
   },
   "tvGQDE7tE5VP5Wpr": {
     "name": "Patrycja LUCKA",
@@ -13994,7 +14040,8 @@
         "organization": "LE CEDRE",
         "status": "Rendez-vous demandé"
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Saint Gabriel 2"
   },
   "UDf4iJl_KrOQvodu": {
     "name": "Franck TARDIEU",
@@ -14213,7 +14260,7 @@
         "status": "Rendez-vous demandé"
       }
     ],
-    "chambre_attribuee": "Tamaris Ecume n° 9"
+    "chambre_attribuee": "Tamaris L’Écume n°9"
   },
   "12HOkd-EDg--pVib": {
     "name": "Anne-Maud TEXIER",
@@ -14597,7 +14644,8 @@
         "organization": "SKELLO",
         "status": "Rendez-vous demandé"
       }
-    ]
+    ],
+    "chambre_attribuee": "Tamaris L’Écume n°10"
   },
   "jbeG6BdQ86JI48hE": {
     "name": "Régis MANGIN",
@@ -14783,7 +14831,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Bayeux 2"
   },
   "ZOljRS58d_j2RSXo": {
     "name": "Damien DUVAL",
@@ -14970,7 +15019,7 @@
         ]
       }
     ],
-    "chambre_attribuee": "Tourelles Belle Epoque Manoir 2"
+    "chambre_attribuee": "Tourelles LA BELLE EPOQUE Manoir 2"
   },
   "goHF0YD40a26lubU": {
     "name": "Serge ZAFFUTO",
@@ -15157,7 +15206,7 @@
         ]
       }
     ],
-    "chambre_attribuee": "Tourelles Winston Churchill Manoir 3"
+    "chambre_attribuee": "Tourelles WINSTON CHURCHILL Manoir 3"
   },
   "u8oqTW_EyjUqICGm": {
     "name": "Valérie PICHON",
@@ -15343,7 +15392,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tamaris La Villa n°32"
   },
   "8HnmGm6fyWJdxNW1": {
     "name": "Margaux CARLIER",
@@ -15529,7 +15579,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tamaris L’Écume n°46"
   },
   "-FudWxVQEBlU_PiJ": {
     "name": "Romane PIEAUX",
@@ -15715,7 +15766,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tamaris L’Écume n°47"
   },
   "yjay6fHMkX9oRW-4": {
     "name": "Rania AHAMADA",
@@ -15901,7 +15953,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tamaris L’Écume n°45"
   },
   "JLbxAoVkCoFtgCfA": {
     "name": "Sylvain LAFON",
@@ -16464,7 +16517,7 @@
     ],
     "activite_choisie": "Repos au village",
     "accompagnement_demande": "Rania pour la fidélité et l’avis client, Romane pour les catalogues, Margaux pour la stratégie communication",
-    "chambre_attribuee": "Tourelles St Gabriel 3"
+    "chambre_attribuee": "Tourelles Saint Gabriel 3"
   },
   "WaEbE2k65Kq4MnPx": {
     "name": "Marjorie LASSALLE",
@@ -17053,7 +17106,7 @@
         "status": "Rendez-vous demandé"
       }
     ],
-    "chambre_attribuee": "Tourelles Anellis Manoir 1"
+    "chambre_attribuee": "Tourelles ANELLIS Manoir 1"
   },
   "ygo67-1E4uvVjrxH": {
     "name": "Alain QUIEVRE",
@@ -17239,7 +17292,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles ANELLIS Manoir 1"
   },
   "7YviIogeObzWqOEw": {
     "name": "Sylvain VILLANI",
@@ -17990,7 +18044,7 @@
         ]
       }
     ],
-    "chambre_attribuee": "Tourelles Chalet Ryes"
+    "chambre_attribuee": "Tourelles Chalet Vaux sur Aure"
   },
   "IdR_5HPuzD7cCdax": {
     "name": "Marc RENOU",
@@ -18393,7 +18447,8 @@
         "organization": "Terrou",
         "status": "Rendez-vous demandé"
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Saint Côme 4"
   },
   "xV3MtLFU0bSzogXR": {
     "name": "Fanny BACHELIER",
@@ -18609,7 +18664,8 @@
         "organization": "Terrou",
         "status": "Rendez-vous demandé"
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Thaon 3"
   },
   "Hh3CfRX0laLFosE2": {
     "name": "Estelle MAZZEGA",
@@ -18860,7 +18916,8 @@
         "organization": "Rozarmor",
         "status": "Rendez-vous demandé"
       }
-    ]
+    ],
+    "chambre_attribuee": "Tamaris L’Écume n°43"
   },
   "127ysx8WRJsf_ep4": {
     "name": "Séléna COLZY",
@@ -19111,7 +19168,8 @@
         "organization": "Rozarmor",
         "status": "Rendez-vous demandé"
       }
-    ]
+    ],
+    "chambre_attribuee": "Tamaris L’Écume n°44"
   },
   "ISKanVIogpel-KMn": {
     "name": "Kévin BOREH",
@@ -19384,7 +19442,7 @@
         "status": "Rendez-vous demandé"
       }
     ],
-    "chambre_attribuee": "Tamaris Ecume n° 42"
+    "chambre_attribuee": "Tamaris L’Écume n°42"
   },
   "OItIzqebRz6DE4k9": {
     "name": "Vincent VANDEVELDE",
@@ -19757,7 +19815,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Chalet Tracy sur mer"
   },
   "bt0sHxxlryg6DdHU": {
     "name": "Stéphane GRILLON",
@@ -20153,7 +20212,7 @@
         "status": "Rendez-vous demandé"
       }
     ],
-    "chambre_attribuee": "Tourelles St Come 12"
+    "chambre_attribuee": "Tourelles Saint Côme 12"
   },
   "bVq9eWlE2zp-gAXR": {
     "name": "Didier ARINO",
@@ -20340,7 +20399,7 @@
         ]
       }
     ],
-    "chambre_attribuee": "Tourelles St Come 2"
+    "chambre_attribuee": "Tourelles Saint Côme 2"
   },
   "IxVGJXUpUJjwjPWO": {
     "name": "Martin DE PENFENTENYO",
@@ -20570,7 +20629,8 @@
         "organization": "Neige et Plein Air",
         "status": "Rendez-vous demandé"
       }
-    ]
+    ],
+    "chambre_attribuee": "Tamaris La Villa n°33"
   },
   "bwewcp0O8K-luZyZ": {
     "name": "Séverine THOMAS",
@@ -20800,7 +20860,8 @@
         "organization": "Neige et Plein Air",
         "status": "Rendez-vous demandé"
       }
-    ]
+    ],
+    "chambre_attribuee": "Tamaris La Villa n°31"
   },
   "_viHjq_TUXsdyX_D": {
     "name": "Serge VILLENEUVE",
@@ -21038,7 +21099,7 @@
         "status": "Rendez-vous demandé"
       }
     ],
-    "chambre_attribuee": "Tamaris La Villa 34"
+    "chambre_attribuee": "Tamaris La Villa n°34"
   },
   "jP73nQNSRn1cTT8V": {
     "name": "Karine LATARD",
@@ -21276,7 +21337,7 @@
         "status": "Rendez-vous demandé"
       }
     ],
-    "chambre_attribuee": "Tamaris La Villa 30"
+    "chambre_attribuee": "Tamaris La Villa n°30"
   },
   "QVELaxeTERbA-jei": {
     "name": "Nicolas DE MONTMARIN",
@@ -21648,7 +21709,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Chalet Vaux sur Aure"
   },
   "QLXmJshvgrgA2Edm": {
     "name": "Bruno HEL",
@@ -21835,7 +21897,7 @@
         ]
       }
     ],
-    "chambre_attribuee": "Tamaris La Rose des Vents 41"
+    "chambre_attribuee": "Tamaris L’Écume n°41"
   },
   "5zOLX4bup42o4rxF": {
     "name": "Stéphane MAUGE",
@@ -22021,7 +22083,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Saint Gabriel 4"
   },
   "KMbI57h7cM4mmNcV": {
     "name": "Moussa HARBOUL",
@@ -22207,7 +22270,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Lantheuil 3"
   },
   "8_SieOdmuOkspQ1K": {
     "name": "Frédéric MION",
@@ -22393,7 +22457,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Lantheuil 4"
   },
   "_LRglFPXPrCyHxgM": {
     "name": "Tea GIANOLI",
@@ -22580,7 +22645,7 @@
         ]
       }
     ],
-    "chambre_attribuee": "Tourelles St Come 2"
+    "chambre_attribuee": "Tourelles Saint Côme 2"
   },
   "FCxgTSe61oo-WTtw": {
     "name": "Alexandre DALEAS",
@@ -22859,7 +22924,8 @@
         "organization": "Terrou",
         "status": "Rendez-vous demandé"
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Chalet Ver sur mer"
   },
   "ZQ6Lt-pWJfbIalUV": {
     "name": "Zohra BIGDADE",
@@ -23138,7 +23204,8 @@
         "organization": "Terrou",
         "status": "Rendez-vous demandé"
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Chalet Ryes"
   },
   "X71zumM7fDrwCdTg": {
     "name": "Ludivine DOISNE",
@@ -23361,7 +23428,8 @@
         "organization": "Terrou",
         "status": "Rendez-vous demandé"
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Saint Gabriel 4"
   },
   "FO7NXmGfPXKuSdQJ": {
     "name": "Olivier LE BARON",
@@ -23584,7 +23652,8 @@
         "organization": "Terrou",
         "status": "Rendez-vous demandé"
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Lantheuil 4"
   },
   "h3F93UsQnNpea53O": {
     "name": "Olivier MATOS",
@@ -23807,7 +23876,8 @@
         "organization": "Terrou",
         "status": "Rendez-vous demandé"
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Saint Côme 3"
   },
   "8q19IV9pZf72DW01": {
     "name": "Frederick GERS",
@@ -24384,7 +24454,7 @@
         ]
       }
     ],
-    "chambre_attribuee": "Tourelles St Come 4"
+    "chambre_attribuee": "Tourelles Saint Côme 4"
   },
   "JseQ03Ocq_Ate9W1": {
     "name": "Hugues LEBLANC",
@@ -24570,7 +24640,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chambre_attribuee": "Tourelles Lantheuil 3"
   },
   "qa4_YSkIArvvuoSd": {
     "name": "Cathy RICHARD",
@@ -24758,7 +24829,8 @@
       }
     ],
     "activite_choisie": "Repos au village",
-    "accompagnement_demande": "Rania pour la fidélité et l’avis client"
+    "accompagnement_demande": "Rania pour la fidélité et l’avis client",
+    "chambre_attribuee": "Tourelles Thaon 3"
   },
   "zhzlBigsJW6yIvSd": {
     "name": "Ethan CRAUNOT",
