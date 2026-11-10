@@ -32,7 +32,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 1"
+            "title": "MON ATELIER · Prospection — Groupe 1 · Benoît DUBOIS et Odile QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -189,31 +189,31 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h15 – 17h30",
         "speaker": "METRO",
         "organization": "METRO",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "QOVOLTIS",
-        "organization": "QOVOLTIS",
-        "status": "Rendez-vous demandé"
-      },
-      {
-        "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h30 – 17h45",
         "speaker": "SKELLO",
         "organization": "SKELLO",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "18h00 – 18h15",
+        "speaker": "QOVOLTIS",
+        "organization": "QOVOLTIS",
+        "status": "Rendez-vous programmé"
+      },
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "18h15 – 18h30",
         "speaker": "OSMOZIS",
         "organization": "OSMOZIS",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       }
     ],
     "chambre_attribuee": "Tamaris L’Écume n°3"
@@ -251,7 +251,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 2"
+            "title": "MON ATELIER · Prospection — Groupe 2 · Francis PONTUS et Alain QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -438,7 +438,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 1"
+            "title": "MON ATELIER · Prospection — Groupe 1 · Benoît DUBOIS et Odile QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -595,24 +595,24 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h15 – 17h30",
         "speaker": "QOVOLTIS",
         "organization": "QOVOLTIS",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h45 – 18h00",
         "speaker": "SKELLO",
         "organization": "SKELLO",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "18h00 – 18h15",
         "speaker": "LE CEDRE",
         "organization": "LE CEDRE",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       }
     ],
     "chambre_attribuee": "Tourelles Crépon 8"
@@ -650,7 +650,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 1"
+            "title": "MON ATELIER · Prospection — Groupe 1 · Benoît DUBOIS et Odile QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -839,7 +839,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 2"
+            "title": "MON ATELIER · Prospection — Groupe 2 · Francis PONTUS et Alain QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -1026,7 +1026,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 3"
+            "title": "MON ATELIER · Prospection — Groupe 3 · Christophe BERNARD et Stéphanie BRIDAY"
           },
           {
             "time": "16h00",
@@ -1214,7 +1214,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 1"
+            "title": "MON ATELIER · Prospection — Groupe 1 · Benoît DUBOIS et Odile QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -1371,17 +1371,10 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "TEDIBER",
-        "organization": "TEDIBER",
-        "status": "Rendez-vous demandé"
-      },
-      {
-        "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h45 – 18h00",
         "speaker": "VINCENT LECLERC",
         "organization": "VINCENT LECLERC",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       }
     ],
     "chambre_attribuee": "Tourelles Crépon 7"
@@ -1419,7 +1412,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 2"
+            "title": "MON ATELIER · Prospection — Groupe 2 · Francis PONTUS et Alain QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -1608,7 +1601,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 2"
+            "title": "MON ATELIER · Prospection — Groupe 2 · Francis PONTUS et Alain QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -1765,24 +1758,24 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "HESPERIDE",
-        "organization": "HESPERIDE",
-        "status": "Rendez-vous demandé"
-      },
-      {
-        "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "QOVOLTIS",
-        "organization": "QOVOLTIS",
-        "status": "Rendez-vous demandé"
-      },
-      {
-        "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h30 – 17h45",
         "speaker": "LE CEDRE",
         "organization": "LE CEDRE",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
+      },
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "17h45 – 18h00",
+        "speaker": "HESPERIDE",
+        "organization": "HESPERIDE",
+        "status": "Rendez-vous programmé"
+      },
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "18h15 – 18h30",
+        "speaker": "QOVOLTIS",
+        "organization": "QOVOLTIS",
+        "status": "Rendez-vous programmé"
       }
     ],
     "chambre_attribuee": "Tourelles Chalet Amblie"
@@ -1824,7 +1817,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 3"
+            "title": "MON ATELIER · Prospection — Groupe 3 · Christophe BERNARD et Stéphanie BRIDAY"
           },
           {
             "time": "16h00",
@@ -2011,7 +2004,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 3"
+            "title": "MON ATELIER · Prospection — Groupe 3 · Christophe BERNARD et Stéphanie BRIDAY"
           },
           {
             "time": "16h00",
@@ -2167,31 +2160,31 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "METRO",
-        "organization": "METRO",
-        "status": "Rendez-vous demandé"
-      },
-      {
-        "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "FORMATOURISME",
-        "organization": "FORMATOURISME",
-        "status": "Rendez-vous demandé"
-      },
-      {
-        "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h15 – 17h30",
         "speaker": "GRITCHEN",
         "organization": "GRITCHEN",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h30 – 17h45",
         "speaker": "OSMOZIS",
         "organization": "OSMOZIS",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
+      },
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "17h45 – 18h00",
+        "speaker": "FORMATOURISME",
+        "organization": "FORMATOURISME",
+        "status": "Rendez-vous programmé"
+      },
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "18h00 – 18h15",
+        "speaker": "METRO",
+        "organization": "METRO",
+        "status": "Rendez-vous programmé"
       }
     ],
     "chambre_attribuee": "Tourelles Saint Côme 6"
@@ -2229,7 +2222,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 2"
+            "title": "MON ATELIER · Prospection — Groupe 2 · Francis PONTUS et Alain QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -2416,7 +2409,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 1"
+            "title": "MON ATELIER · Prospection — Groupe 1 · Benoît DUBOIS et Odile QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -2603,7 +2596,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 2"
+            "title": "MON ATELIER · Prospection — Groupe 2 · Francis PONTUS et Alain QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -2760,17 +2753,17 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h15 – 17h30",
         "speaker": "METRO",
         "organization": "METRO",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "18h00 – 18h15",
         "speaker": "FORMATOURISME",
         "organization": "FORMATOURISME",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       }
     ],
     "chambre_attribuee": "Tourelles Crépon 4"
@@ -2808,7 +2801,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 1"
+            "title": "MON ATELIER · Prospection — Groupe 1 · Benoît DUBOIS et Odile QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -2995,7 +2988,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 3"
+            "title": "MON ATELIER · Prospection — Groupe 3 · Christophe BERNARD et Stéphanie BRIDAY"
           },
           {
             "time": "16h00",
@@ -3182,7 +3175,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 2"
+            "title": "MON ATELIER · Prospection — Groupe 2 · Francis PONTUS et Alain QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -3339,31 +3332,24 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "QOVOLTIS",
-        "organization": "QOVOLTIS",
-        "status": "Rendez-vous demandé"
-      },
-      {
-        "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "SKELLO",
-        "organization": "SKELLO",
-        "status": "Rendez-vous demandé"
-      },
-      {
-        "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h15 – 17h30",
         "speaker": "FORMATOURISME",
         "organization": "FORMATOURISME",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "TEDIBER",
-        "organization": "TEDIBER",
-        "status": "Rendez-vous demandé"
+        "time": "17h45 – 18h00",
+        "speaker": "SKELLO",
+        "organization": "SKELLO",
+        "status": "Rendez-vous programmé"
+      },
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "18h00 – 18h15",
+        "speaker": "QOVOLTIS",
+        "organization": "QOVOLTIS",
+        "status": "Rendez-vous programmé"
       }
     ],
     "chambre_attribuee": "Tourelles Crépon 3"
@@ -3401,7 +3387,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 3"
+            "title": "MON ATELIER · Prospection — Groupe 3 · Christophe BERNARD et Stéphanie BRIDAY"
           },
           {
             "time": "16h00",
@@ -3588,7 +3574,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 1"
+            "title": "MON ATELIER · Prospection — Groupe 1 · Benoît DUBOIS et Odile QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -3775,7 +3761,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 3"
+            "title": "MON ATELIER · Prospection — Groupe 3 · Christophe BERNARD et Stéphanie BRIDAY"
           },
           {
             "time": "16h00",
@@ -3930,31 +3916,24 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "METRO",
-        "organization": "METRO",
-        "status": "Rendez-vous demandé"
-      },
-      {
-        "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "QOVOLTIS",
-        "organization": "QOVOLTIS",
-        "status": "Rendez-vous demandé"
-      },
-      {
-        "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "TEDIBER",
-        "organization": "TEDIBER",
-        "status": "Rendez-vous demandé"
-      },
-      {
-        "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h45 – 18h00",
         "speaker": "CUSTOMER ALLIANCE",
         "organization": "CUSTOMER ALLIANCE",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
+      },
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "18h00 – 18h15",
+        "speaker": "QOVOLTIS",
+        "organization": "QOVOLTIS",
+        "status": "Rendez-vous programmé"
+      },
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "18h15 – 18h30",
+        "speaker": "METRO",
+        "organization": "METRO",
+        "status": "Rendez-vous programmé"
       }
     ],
     "chambre_attribuee": "Tourelles MAURICE SCHUMANN Manoir 4"
@@ -3996,7 +3975,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 2"
+            "title": "MON ATELIER · Prospection — Groupe 2 · Francis PONTUS et Alain QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -4182,7 +4161,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 1"
+            "title": "MON ATELIER · Prospection — Groupe 1 · Benoît DUBOIS et Odile QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -4369,7 +4348,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 1"
+            "title": "MON ATELIER · Prospection — Groupe 1 · Benoît DUBOIS et Odile QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -4523,7 +4502,23 @@
     ],
     "activite_choisie": "Activité sportive",
     "accompagnement_demande": "Rania pour la fidélité et l’avis client",
-    "chambre_attribuee": "Tamaris L’Écume n°4"
+    "chambre_attribuee": "Tamaris L’Écume n°4",
+    "rdv": [
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "17h15 – 17h30",
+        "speaker": "QOVOLTIS",
+        "organization": "QOVOLTIS",
+        "status": "Rendez-vous programmé"
+      },
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "18h15 – 18h30",
+        "speaker": "SKELLO",
+        "organization": "SKELLO",
+        "status": "Rendez-vous programmé"
+      }
+    ]
   },
   "s1PL4j1t7sQ6jtLY": {
     "name": "Emmanuelle POSSON",
@@ -4558,7 +4553,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 3"
+            "title": "MON ATELIER · Prospection — Groupe 3 · Christophe BERNARD et Stéphanie BRIDAY"
           },
           {
             "time": "16h00",
@@ -4715,52 +4710,31 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "METRO",
-        "organization": "METRO",
-        "status": "Rendez-vous demandé"
-      },
-      {
-        "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "HESPERIDE",
-        "organization": "HESPERIDE",
-        "status": "Rendez-vous demandé"
-      },
-      {
-        "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "QOVOLTIS",
-        "organization": "QOVOLTIS",
-        "status": "Rendez-vous demandé"
-      },
-      {
-        "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "SKELLO",
-        "organization": "SKELLO",
-        "status": "Rendez-vous demandé"
-      },
-      {
-        "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "FORMATOURISME",
-        "organization": "FORMATOURISME",
-        "status": "Rendez-vous demandé"
-      },
-      {
-        "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h15 – 17h30",
         "speaker": "LE CEDRE",
         "organization": "LE CEDRE",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "AQUATIQUE VACANCES",
-        "organization": "AQUATIQUE VACANCES",
-        "status": "Rendez-vous demandé"
+        "time": "17h30 – 17h45",
+        "speaker": "METRO",
+        "organization": "METRO",
+        "status": "Rendez-vous programmé"
+      },
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "17h45 – 18h00",
+        "speaker": "QOVOLTIS",
+        "organization": "QOVOLTIS",
+        "status": "Rendez-vous programmé"
+      },
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "18h15 – 18h30",
+        "speaker": "HESPERIDE",
+        "organization": "HESPERIDE",
+        "status": "Rendez-vous programmé"
       }
     ],
     "chambre_attribuee": "Tourelles Saint Côme 5"
@@ -4798,7 +4772,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 1"
+            "title": "MON ATELIER · Prospection — Groupe 1 · Benoît DUBOIS et Odile QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -4985,7 +4959,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 2"
+            "title": "MON ATELIER · Prospection — Groupe 2 · Francis PONTUS et Alain QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -5172,7 +5146,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 2"
+            "title": "MON ATELIER · Prospection — Groupe 2 · Francis PONTUS et Alain QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -5324,7 +5298,16 @@
         ]
       }
     ],
-    "chambre_attribuee": "Tourelles Creully 3"
+    "chambre_attribuee": "Tourelles Creully 3",
+    "rdv": [
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "18h00 – 18h15",
+        "speaker": "SKELLO",
+        "organization": "SKELLO",
+        "status": "Rendez-vous programmé"
+      }
+    ]
   },
   "6uh7lo4dwB64nAso": {
     "name": "Delphine PETITJEAN",
@@ -5359,7 +5342,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 1"
+            "title": "MON ATELIER · Prospection — Groupe 1 · Benoît DUBOIS et Odile QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -5513,7 +5496,23 @@
     ],
     "activite_choisie": "Activité sportive",
     "accompagnement_demande": "Rania pour la fidélité et l’avis client, Romane pour les catalogues, Margaux pour la stratégie communication",
-    "chambre_attribuee": "Tourelles Caen 1"
+    "chambre_attribuee": "Tourelles Caen 1",
+    "rdv": [
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "17h30 – 17h45",
+        "speaker": "FORMATOURISME",
+        "organization": "FORMATOURISME",
+        "status": "Rendez-vous programmé"
+      },
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "17h45 – 18h00",
+        "speaker": "AQUATIQUE VACANCES",
+        "organization": "AQUATIQUE VACANCES",
+        "status": "Rendez-vous programmé"
+      }
+    ]
   },
   "QQoz2MpQuV7z5JxW": {
     "name": "Juliette ROY-BONNET",
@@ -5548,7 +5547,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 3"
+            "title": "MON ATELIER · Prospection — Groupe 3 · Christophe BERNARD et Stéphanie BRIDAY"
           },
           {
             "time": "16h00",
@@ -5705,24 +5704,24 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "SKELLO",
-        "organization": "SKELLO",
-        "status": "Rendez-vous demandé"
-      },
-      {
-        "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h30 – 17h45",
         "speaker": "LE CEDRE",
         "organization": "LE CEDRE",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "18h00 – 18h15",
         "speaker": "OSMOZIS",
         "organization": "OSMOZIS",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
+      },
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "18h15 – 18h30",
+        "speaker": "SKELLO",
+        "organization": "SKELLO",
+        "status": "Rendez-vous programmé"
       }
     ],
     "chambre_attribuee": "Tamaris L’Écume n°212"
@@ -5760,7 +5759,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 3"
+            "title": "MON ATELIER · Prospection — Groupe 3 · Christophe BERNARD et Stéphanie BRIDAY"
           },
           {
             "time": "16h00",
@@ -5949,7 +5948,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 1"
+            "title": "MON ATELIER · Prospection — Groupe 1 · Benoît DUBOIS et Odile QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -6136,7 +6135,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 3"
+            "title": "MON ATELIER · Prospection — Groupe 3 · Christophe BERNARD et Stéphanie BRIDAY"
           },
           {
             "time": "16h00",
@@ -6293,17 +6292,17 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "18h00 – 18h15",
         "speaker": "HESPERIDE",
         "organization": "HESPERIDE",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "18h15 – 18h30",
         "speaker": "GRITCHEN",
         "organization": "GRITCHEN",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       }
     ],
     "chambre_attribuee": "Tourelles Bayeux 8"
@@ -6341,7 +6340,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 1"
+            "title": "MON ATELIER · Prospection — Groupe 1 · Benoît DUBOIS et Odile QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -6528,7 +6527,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 1"
+            "title": "MON ATELIER · Prospection — Groupe 1 · Benoît DUBOIS et Odile QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -6717,7 +6716,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 2"
+            "title": "MON ATELIER · Prospection — Groupe 2 · Francis PONTUS et Alain QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -6874,10 +6873,10 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h30 – 17h45",
         "speaker": "QOVOLTIS",
         "organization": "QOVOLTIS",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       }
     ],
     "chambre_attribuee": "Tourelles Bayeux 6"
@@ -6915,7 +6914,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 3"
+            "title": "MON ATELIER · Prospection — Groupe 3 · Christophe BERNARD et Stéphanie BRIDAY"
           },
           {
             "time": "16h00",
@@ -7104,7 +7103,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 2"
+            "title": "MON ATELIER · Prospection — Groupe 2 · Francis PONTUS et Alain QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -7295,7 +7294,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 2"
+            "title": "MON ATELIER · Prospection — Groupe 2 · Francis PONTUS et Alain QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -7482,7 +7481,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 3"
+            "title": "MON ATELIER · Prospection — Groupe 3 · Christophe BERNARD et Stéphanie BRIDAY"
           },
           {
             "time": "16h00",
@@ -7669,7 +7668,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 3"
+            "title": "MON ATELIER · Prospection — Groupe 3 · Christophe BERNARD et Stéphanie BRIDAY"
           },
           {
             "time": "16h00",
@@ -7826,45 +7825,38 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "METRO",
-        "organization": "METRO",
-        "status": "Rendez-vous demandé"
-      },
-      {
-        "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "HESPERIDE",
-        "organization": "HESPERIDE",
-        "status": "Rendez-vous demandé"
-      },
-      {
-        "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h15 – 17h30",
         "speaker": "QOVOLTIS",
         "organization": "QOVOLTIS",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "TEDIBER",
-        "organization": "TEDIBER",
-        "status": "Rendez-vous demandé"
+        "time": "17h30 – 17h45",
+        "speaker": "METRO",
+        "organization": "METRO",
+        "status": "Rendez-vous programmé"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h45 – 18h00",
         "speaker": "GRITCHEN",
         "organization": "GRITCHEN",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "18h00 – 18h15",
         "speaker": "CUSTOMER ALLIANCE",
         "organization": "CUSTOMER ALLIANCE",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
+      },
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "18h15 – 18h30",
+        "speaker": "HESPERIDE",
+        "organization": "HESPERIDE",
+        "status": "Rendez-vous programmé"
       }
     ],
     "chambre_attribuee": "Tamaris L’Écume n°2"
@@ -7906,7 +7898,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 1"
+            "title": "MON ATELIER · Prospection — Groupe 1 · Benoît DUBOIS et Odile QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -8093,7 +8085,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 3"
+            "title": "MON ATELIER · Prospection — Groupe 3 · Christophe BERNARD et Stéphanie BRIDAY"
           },
           {
             "time": "16h00",
@@ -8249,17 +8241,17 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "18h00 – 18h15",
         "speaker": "METRO",
         "organization": "METRO",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "18h15 – 18h30",
         "speaker": "QOVOLTIS",
         "organization": "QOVOLTIS",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       }
     ],
     "chambre_attribuee": "Tourelles Crépon 1"
@@ -8297,7 +8289,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 1"
+            "title": "MON ATELIER · Prospection — Groupe 1 · Benoît DUBOIS et Odile QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -8453,24 +8445,24 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "FORMATOURISME",
-        "organization": "FORMATOURISME",
-        "status": "Rendez-vous demandé"
-      },
-      {
-        "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h30 – 17h45",
         "speaker": "GRITCHEN",
         "organization": "GRITCHEN",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h45 – 18h00",
         "speaker": "OSMOZIS",
         "organization": "OSMOZIS",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
+      },
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "18h00 – 18h15",
+        "speaker": "FORMATOURISME",
+        "organization": "FORMATOURISME",
+        "status": "Rendez-vous programmé"
       }
     ],
     "chambre_attribuee": "Tourelles Bayeux 5"
@@ -8508,7 +8500,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 2"
+            "title": "MON ATELIER · Prospection — Groupe 2 · Francis PONTUS et Alain QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -8694,7 +8686,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 3"
+            "title": "MON ATELIER · Prospection — Groupe 3 · Christophe BERNARD et Stéphanie BRIDAY"
           },
           {
             "time": "16h00",
@@ -8881,7 +8873,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 2"
+            "title": "MON ATELIER · Prospection — Groupe 2 · Francis PONTUS et Alain QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -9068,7 +9060,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 1"
+            "title": "MON ATELIER · Prospection — Groupe 1 · Benoît DUBOIS et Odile QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -9255,7 +9247,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 3"
+            "title": "MON ATELIER · Prospection — Groupe 3 · Christophe BERNARD et Stéphanie BRIDAY"
           },
           {
             "time": "16h00",
@@ -9446,7 +9438,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 2"
+            "title": "MON ATELIER · Prospection — Groupe 2 · Francis PONTUS et Alain QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -9633,7 +9625,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 3"
+            "title": "MON ATELIER · Prospection — Groupe 3 · Christophe BERNARD et Stéphanie BRIDAY"
           },
           {
             "time": "16h00",
@@ -9789,17 +9781,17 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h15 – 17h30",
         "speaker": "HESPERIDE",
         "organization": "HESPERIDE",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "18h00 – 18h15",
         "speaker": "VINCENT LECLERC",
         "organization": "VINCENT LECLERC",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       }
     ],
     "chambre_attribuee": "Tourelles Crépon 6"
@@ -9837,7 +9829,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 1"
+            "title": "MON ATELIER · Prospection — Groupe 1 · Benoît DUBOIS et Odile QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -10212,7 +10204,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 1"
+            "title": "MON ATELIER · Prospection — Groupe 1 · Benoît DUBOIS et Odile QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -10367,10 +10359,10 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h30 – 17h45",
         "speaker": "SKELLO",
         "organization": "SKELLO",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       }
     ],
     "chambre_attribuee": "Tourelles Saint Côme 10"
@@ -10408,7 +10400,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 2"
+            "title": "MON ATELIER · Prospection — Groupe 2 · Francis PONTUS et Alain QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -10600,7 +10592,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 1"
+            "title": "MON ATELIER · Prospection — Groupe 1 · Benoît DUBOIS et Odile QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -10787,7 +10779,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 3"
+            "title": "MON ATELIER · Prospection — Groupe 3 · Christophe BERNARD et Stéphanie BRIDAY"
           },
           {
             "time": "16h00",
@@ -10976,7 +10968,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 2"
+            "title": "MON ATELIER · Prospection — Groupe 2 · Francis PONTUS et Alain QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -11163,7 +11155,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 3"
+            "title": "MON ATELIER · Prospection — Groupe 3 · Christophe BERNARD et Stéphanie BRIDAY"
           },
           {
             "time": "16h00",
@@ -11352,7 +11344,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 1"
+            "title": "MON ATELIER · Prospection — Groupe 1 · Benoît DUBOIS et Odile QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -11539,7 +11531,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 2"
+            "title": "MON ATELIER · Prospection — Groupe 2 · Francis PONTUS et Alain QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -11726,7 +11718,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 1"
+            "title": "MON ATELIER · Prospection — Groupe 1 · Benoît DUBOIS et Odile QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -11881,17 +11873,17 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "METRO",
-        "organization": "METRO",
-        "status": "Rendez-vous demandé"
+        "time": "17h45 – 18h00",
+        "speaker": "FORMATOURISME",
+        "organization": "FORMATOURISME",
+        "status": "Rendez-vous programmé"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "FORMATOURISME",
-        "organization": "FORMATOURISME",
-        "status": "Rendez-vous demandé"
+        "time": "18h00 – 18h15",
+        "speaker": "METRO",
+        "organization": "METRO",
+        "status": "Rendez-vous programmé"
       }
     ],
     "chambre_attribuee": "Tamaris L’Écume n°7"
@@ -11929,7 +11921,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 2"
+            "title": "MON ATELIER · Prospection — Groupe 2 · Francis PONTUS et Alain QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -12086,24 +12078,24 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "METRO",
-        "organization": "METRO",
-        "status": "Rendez-vous demandé"
-      },
-      {
-        "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "GRITCHEN",
-        "organization": "GRITCHEN",
-        "status": "Rendez-vous demandé"
-      },
-      {
-        "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h30 – 17h45",
         "speaker": "CUSTOMER ALLIANCE",
         "organization": "CUSTOMER ALLIANCE",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
+      },
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "18h00 – 18h15",
+        "speaker": "GRITCHEN",
+        "organization": "GRITCHEN",
+        "status": "Rendez-vous programmé"
+      },
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "18h15 – 18h30",
+        "speaker": "METRO",
+        "organization": "METRO",
+        "status": "Rendez-vous programmé"
       }
     ],
     "chambre_attribuee": "Tourelles Saint Côme 8"
@@ -12141,7 +12133,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 3"
+            "title": "MON ATELIER · Prospection — Groupe 3 · Christophe BERNARD et Stéphanie BRIDAY"
           },
           {
             "time": "16h00",
@@ -12328,7 +12320,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 1"
+            "title": "MON ATELIER · Prospection — Groupe 1 · Benoît DUBOIS et Odile QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -12515,7 +12507,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 2"
+            "title": "MON ATELIER · Prospection — Groupe 2 · Francis PONTUS et Alain QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -12672,24 +12664,24 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h30 – 17h45",
         "speaker": "METRO",
         "organization": "METRO",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h45 – 18h00",
         "speaker": "HESPERIDE",
         "organization": "HESPERIDE",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "18h15 – 18h30",
         "speaker": "VINCENT LECLERC",
         "organization": "VINCENT LECLERC",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       }
     ],
     "chambre_attribuee": "Tamaris L’Écume n°8"
@@ -12727,7 +12719,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 3"
+            "title": "MON ATELIER · Prospection — Groupe 3 · Christophe BERNARD et Stéphanie BRIDAY"
           },
           {
             "time": "16h00",
@@ -12914,7 +12906,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 3"
+            "title": "MON ATELIER · Prospection — Groupe 3 · Christophe BERNARD et Stéphanie BRIDAY"
           },
           {
             "time": "16h00",
@@ -13071,10 +13063,10 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h45 – 18h00",
         "speaker": "QOVOLTIS",
         "organization": "QOVOLTIS",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       }
     ],
     "chambre_attribuee": "Tourelles Crépon 5"
@@ -13112,7 +13104,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 2"
+            "title": "MON ATELIER · Prospection — Groupe 2 · Francis PONTUS et Alain QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -13305,7 +13297,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 3"
+            "title": "MON ATELIER · Prospection — Groupe 3 · Christophe BERNARD et Stéphanie BRIDAY"
           },
           {
             "time": "16h00",
@@ -13492,7 +13484,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 3"
+            "title": "MON ATELIER · Prospection — Groupe 3 · Christophe BERNARD et Stéphanie BRIDAY"
           },
           {
             "time": "16h00",
@@ -13679,7 +13671,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 2"
+            "title": "MON ATELIER · Prospection — Groupe 2 · Francis PONTUS et Alain QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -13866,7 +13858,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 1"
+            "title": "MON ATELIER · Prospection — Groupe 1 · Benoît DUBOIS et Odile QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -14021,24 +14013,24 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "METRO",
-        "organization": "METRO",
-        "status": "Rendez-vous demandé"
-      },
-      {
-        "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h30 – 17h45",
         "speaker": "QOVOLTIS",
         "organization": "QOVOLTIS",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h45 – 18h00",
+        "speaker": "METRO",
+        "organization": "METRO",
+        "status": "Rendez-vous programmé"
+      },
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "18h15 – 18h30",
         "speaker": "LE CEDRE",
         "organization": "LE CEDRE",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       }
     ],
     "chambre_attribuee": "Tourelles Saint Gabriel 2"
@@ -14076,7 +14068,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 2"
+            "title": "MON ATELIER · Prospection — Groupe 2 · Francis PONTUS et Alain QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -14233,31 +14225,24 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "HESPERIDE",
-        "organization": "HESPERIDE",
-        "status": "Rendez-vous demandé"
-      },
-      {
-        "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "FORMATOURISME",
-        "organization": "FORMATOURISME",
-        "status": "Rendez-vous demandé"
-      },
-      {
-        "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "TEDIBER",
-        "organization": "TEDIBER",
-        "status": "Rendez-vous demandé"
-      },
-      {
-        "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h15 – 17h30",
         "speaker": "CUSTOMER ALLIANCE",
         "organization": "CUSTOMER ALLIANCE",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
+      },
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "17h30 – 17h45",
+        "speaker": "HESPERIDE",
+        "organization": "HESPERIDE",
+        "status": "Rendez-vous programmé"
+      },
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "18h15 – 18h30",
+        "speaker": "FORMATOURISME",
+        "organization": "FORMATOURISME",
+        "status": "Rendez-vous programmé"
       }
     ],
     "chambre_attribuee": "Tamaris L’Écume n°9"
@@ -14295,7 +14280,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 2"
+            "title": "MON ATELIER · Prospection — Groupe 2 · Francis PONTUS et Alain QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -14482,7 +14467,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 1"
+            "title": "MON ATELIER · Prospection — Groupe 1 · Benoît DUBOIS et Odile QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -14639,10 +14624,10 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h15 – 17h30",
         "speaker": "SKELLO",
         "organization": "SKELLO",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       }
     ],
     "chambre_attribuee": "Tamaris L’Écume n°10"
@@ -14680,7 +14665,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 2"
+            "title": "MON ATELIER · Prospection — Groupe 2 · Francis PONTUS et Alain QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -15989,7 +15974,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 1"
+            "title": "MON ATELIER · Prospection — Groupe 1 · Benoît DUBOIS et Odile QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -16142,7 +16127,23 @@
       }
     ],
     "activite_choisie": "Visite culturelle",
-    "chambre_attribuee": "Tourelles Bayeux 3"
+    "chambre_attribuee": "Tourelles Bayeux 3",
+    "rdv": [
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "17h30 – 17h45",
+        "speaker": "HESPERIDE",
+        "organization": "HESPERIDE",
+        "status": "Rendez-vous programmé"
+      },
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "17h45 – 18h00",
+        "speaker": "METRO",
+        "organization": "METRO",
+        "status": "Rendez-vous programmé"
+      }
+    ]
   },
   "KErDV8wYi8wZLNZ1": {
     "name": "Angélique LAFON",
@@ -16177,7 +16178,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 3"
+            "title": "MON ATELIER · Prospection — Groupe 3 · Christophe BERNARD et Stéphanie BRIDAY"
           },
           {
             "time": "16h00",
@@ -16363,7 +16364,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 3"
+            "title": "MON ATELIER · Prospection — Groupe 3 · Christophe BERNARD et Stéphanie BRIDAY"
           },
           {
             "time": "16h00",
@@ -16552,7 +16553,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 2"
+            "title": "MON ATELIER · Prospection — Groupe 2 · Francis PONTUS et Alain QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -16738,7 +16739,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 1"
+            "title": "MON ATELIER · Prospection — Groupe 1 · Benoît DUBOIS et Odile QUIÈVRE"
           },
           {
             "time": "16h00",
@@ -17079,31 +17080,31 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "METRO",
-        "organization": "METRO",
-        "status": "Rendez-vous demandé"
-      },
-      {
-        "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h15 – 17h30",
         "speaker": "HESPERIDE",
         "organization": "HESPERIDE",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h30 – 17h45",
         "speaker": "QOVOLTIS",
         "organization": "QOVOLTIS",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
+        "time": "17h45 – 18h00",
         "speaker": "LE CEDRE",
         "organization": "LE CEDRE",
-        "status": "Rendez-vous demandé"
+        "status": "Rendez-vous programmé"
+      },
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "18h15 – 18h30",
+        "speaker": "METRO",
+        "organization": "METRO",
+        "status": "Rendez-vous programmé"
       }
     ],
     "chambre_attribuee": "Tourelles ANELLIS Manoir 1"
@@ -17328,7 +17329,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 3"
+            "title": "MON ATELIER · Prospection — Groupe 3 · Christophe BERNARD et Stéphanie BRIDAY"
           },
           {
             "time": "16h00",
@@ -17517,7 +17518,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Atelier prospection (14h–16h) – Groupe 1"
+            "title": "MON ATELIER · Prospection — Groupe 1 · Benoît DUBOIS et Odile QUIÈVRE"
           },
           {
             "time": "16h00",
