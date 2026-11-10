@@ -3685,7 +3685,7 @@
           },
           {
             "time": "14h00",
-            "title": "MON ATELIER · Ateliers prospection sur les pratiques commerciales groupe — Groupe 3 · Christophe BERNARD et Stéphanie BRIDAY"
+            "title": "MON INTERVENTION · Ateliers prospection sur les pratiques commerciales groupe — Groupe 2 · Francis PONTUS et Alain QUIÈVRE"
           },
           {
             "time": "15h45",
@@ -3854,6 +3854,13 @@
         "speaker": "METRO",
         "organization": "METRO",
         "status": "Rendez-vous programmé"
+      },
+      {
+        "day": "Lundi 23 novembre",
+        "time": "14h00",
+        "speaker": "Ateliers prospection sur les pratiques commerciales groupe — Groupe 2",
+        "organization": "Avec Alain QUIÈVRE",
+        "kind": "intervention"
       }
     ],
     "chambre_attribuee": "Tourelles Maurice Schumann – Manoir 4"
@@ -17571,10 +17578,6 @@
             "title": "Déjeuner"
           },
           {
-            "time": "14h00",
-            "title": "MON INTERVENTION · Mettre en place des processus simples pour sécuriser ses supports web — Marc RENOU, Philippe EMORINE et Hugues LEBLANC"
-          },
-          {
             "time": "15h30",
             "title": "Pause"
           },
@@ -17622,6 +17625,10 @@
           {
             "time": "14h00",
             "title": "Atelier au choix sur inscription — choix non renseigné"
+          },
+          {
+            "time": "14h00",
+            "title": "MON INTERVENTION · Mettre en place des processus simples pour sécuriser ses supports web — Marc RENOU, Philippe EMORINE et Hugues LEBLANC"
           },
           {
             "time": "15h30",
@@ -17679,7 +17686,16 @@
         ]
       }
     ],
-    "chambre_attribuee": "Tourelles Chalet Vaux sur Aure"
+    "chambre_attribuee": "Tourelles Chalet Vaux sur Aure",
+    "rdv": [
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "14h00",
+        "speaker": "Mettre en place des processus simples pour sécuriser ses supports web",
+        "organization": "Avec Marc RENOU, Hugues LEBLANC",
+        "kind": "intervention"
+      }
+    ]
   },
   "IdR_5HPuzD7cCdax": {
     "name": "Marc RENOU",
@@ -17754,10 +17770,6 @@
             "title": "Déjeuner"
           },
           {
-            "time": "14h00",
-            "title": "MON INTERVENTION · Mettre en place des processus simples pour sécuriser ses supports web — Marc RENOU, Philippe EMORINE et Hugues LEBLANC"
-          },
-          {
             "time": "15h30",
             "title": "Pause"
           },
@@ -17805,6 +17817,10 @@
           {
             "time": "14h00",
             "title": "Atelier au choix sur inscription — choix non renseigné"
+          },
+          {
+            "time": "14h00",
+            "title": "MON INTERVENTION · Mettre en place des processus simples pour sécuriser ses supports web — Marc RENOU, Philippe EMORINE et Hugues LEBLANC"
           },
           {
             "time": "15h30",
@@ -17862,7 +17878,16 @@
         ]
       }
     ],
-    "chambre_attribuee": "Tourelles Chalet Tracy sur mer"
+    "chambre_attribuee": "Tourelles Chalet Tracy sur mer",
+    "rdv": [
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "14h00",
+        "speaker": "Mettre en place des processus simples pour sécuriser ses supports web",
+        "organization": "Avec Philippe EMORINE, Hugues LEBLANC",
+        "kind": "intervention"
+      }
+    ]
   },
   "-FDENjgMr2h3duqB": {
     "name": "Gabrielle BOIZARD",
@@ -21171,7 +21196,16 @@
         ]
       }
     ],
-    "chambre_attribuee": "Chalet Ver-sur-Mer (du 22 au 23 novembre)"
+    "chambre_attribuee": "Chalet Ver-sur-Mer (du 22 au 23 novembre)",
+    "rdv": [
+      {
+        "day": "Lundi 23 novembre",
+        "time": "11h40",
+        "speaker": "Présentation de la refonte des supports print",
+        "organization": "Avec Vickie MANCHETTE",
+        "kind": "intervention"
+      }
+    ]
   },
   "rljMsY3L8lH56FGJ": {
     "name": "Vickie MANCHETTE",
@@ -21354,7 +21388,16 @@
         ]
       }
     ],
-    "chambre_attribuee": "Tourelles Chalet Vaux sur Aure"
+    "chambre_attribuee": "Tourelles Chalet Vaux sur Aure",
+    "rdv": [
+      {
+        "day": "Lundi 23 novembre",
+        "time": "11h40",
+        "speaker": "Présentation de la refonte des supports print",
+        "organization": "Avec Nicolas DE MONTMARIN",
+        "kind": "intervention"
+      }
+    ]
   },
   "QLXmJshvgrgA2Edm": {
     "name": "Bruno HEL",
@@ -24164,10 +24207,6 @@
             "title": "Déjeuner"
           },
           {
-            "time": "14h00",
-            "title": "MON INTERVENTION · Mettre en place des processus simples pour sécuriser ses supports web — Marc RENOU, Philippe EMORINE et Hugues LEBLANC"
-          },
-          {
             "time": "15h30",
             "title": "Pause"
           },
@@ -24215,6 +24254,10 @@
           {
             "time": "14h00",
             "title": "Atelier au choix sur inscription — choix non renseigné"
+          },
+          {
+            "time": "14h00",
+            "title": "MON INTERVENTION · Mettre en place des processus simples pour sécuriser ses supports web — Marc RENOU, Philippe EMORINE et Hugues LEBLANC"
           },
           {
             "time": "15h30",
@@ -24272,7 +24315,16 @@
         ]
       }
     ],
-    "chambre_attribuee": "Tourelles Lantheuil 3"
+    "chambre_attribuee": "Tourelles Lantheuil 3",
+    "rdv": [
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "14h00",
+        "speaker": "Mettre en place des processus simples pour sécuriser ses supports web",
+        "organization": "Avec Marc RENOU, Philippe EMORINE",
+        "kind": "intervention"
+      }
+    ]
   },
   "qa4_YSkIArvvuoSd": {
     "name": "Cathy RICHARD",
