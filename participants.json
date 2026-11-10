@@ -18422,31 +18422,35 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "AUGER Tristan",
-        "organization": "Koat Ar Mor",
-        "status": "Rendez-vous demandé"
+        "time": "17h30 – 17h45",
+        "speaker": "Jean-Christophe VEAUX",
+        "organization": "TERROU",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "JAGO Emilie",
-        "organization": "La Saulaie",
-        "status": "Rendez-vous demandé"
+        "time": "17h45 – 18h00",
+        "speaker": "Emilie JAGO",
+        "organization": "LA SAULAIE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "ROY BONNET Juliette",
-        "organization": "Neige et Plein Air",
-        "status": "Rendez-vous demandé"
+        "time": "18h00 – 18h15",
+        "speaker": "Juliette ROY-BONNET",
+        "organization": "NEIGE ET PLEIN AIR",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "VEAUX Jean-Christophe",
-        "organization": "Terrou",
-        "status": "Rendez-vous demandé"
+        "time": "18h15 – 18h30",
+        "speaker": "Tristan AUGER",
+        "organization": "KOAT AR MOR",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       }
     ],
     "chambre_attribuee": "Tourelles Saint Côme 4"
@@ -18639,31 +18643,35 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "AUGER Tristan",
-        "organization": "Koat Ar Mor",
-        "status": "Rendez-vous demandé"
+        "time": "17h30 – 17h45",
+        "speaker": "Jean-Christophe VEAUX",
+        "organization": "TERROU",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "JAGO Emilie",
-        "organization": "La Saulaie",
-        "status": "Rendez-vous demandé"
+        "time": "17h45 – 18h00",
+        "speaker": "Emilie JAGO",
+        "organization": "LA SAULAIE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "ROY BONNET Juliette",
-        "organization": "Neige et Plein Air",
-        "status": "Rendez-vous demandé"
+        "time": "18h00 – 18h15",
+        "speaker": "Juliette ROY-BONNET",
+        "organization": "NEIGE ET PLEIN AIR",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "VEAUX Jean-Christophe",
-        "organization": "Terrou",
-        "status": "Rendez-vous demandé"
+        "time": "18h15 – 18h30",
+        "speaker": "Tristan AUGER",
+        "organization": "KOAT AR MOR",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       }
     ],
     "chambre_attribuee": "Tourelles Thaon 3"
@@ -18856,66 +18864,75 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "BODE Véronique",
-        "organization": "Cap Ardèche",
-        "status": "Rendez-vous demandé"
+        "time": "17h15 – 17h30",
+        "speaker": "Jean-François CAZE",
+        "organization": "LES BUISSONNETS",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "LAFFON Sylvain",
-        "organization": "Fleurs d'Aubrac",
-        "status": "Rendez-vous demandé"
+        "time": "17h15 – 17h30",
+        "speaker": "Odile QUIEVRE",
+        "organization": "HÔTEL ESPACE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "QUIEVRE Odile",
-        "organization": "Hôtel Espace / Assoc. des Maisons Familiales",
-        "status": "Rendez-vous demandé"
+        "time": "17h30 – 17h45",
+        "speaker": "Franck TARDIEU",
+        "organization": "LA VALLÉE DE L'YONNE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "DUCHEMIN Sylvain",
-        "organization": "La Pierre Bleue",
-        "status": "Rendez-vous demandé"
+        "time": "17h30 – 17h45",
+        "speaker": "Sylvain LAFON",
+        "organization": "FLEURS D'AUBRAC",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "TARDIEU Franck",
-        "organization": "La Vallée de l'Yonne",
-        "status": "Rendez-vous demandé"
+        "time": "17h45 – 18h00",
+        "speaker": "Sylvain DUCHEMIN",
+        "organization": "LA PIERRE BLEUE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "CRAMBES Stéphanie",
-        "organization": "Le Moulin de Sournia",
-        "status": "Rendez-vous demandé"
+        "time": "17h45 – 18h00",
+        "speaker": "Véronique BODE",
+        "organization": "CAP ARDÈCHE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "CAZE Jean François",
-        "organization": "Les Buissonnets",
-        "status": "Rendez-vous demandé"
+        "time": "18h00 – 18h15",
+        "speaker": "Florelle BIDON",
+        "organization": "ROZ ARMOR",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "POSSON Emmanuelle",
-        "organization": "Marc et Montmija",
-        "status": "Rendez-vous demandé"
+        "time": "18h15 – 18h30",
+        "speaker": "Emmanuelle POSSON",
+        "organization": "MARC ET MONTMIJA",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "BIDON Florelle",
-        "organization": "Rozarmor",
-        "status": "Rendez-vous demandé"
+        "time": "18h15 – 18h30",
+        "speaker": "Stéphanie CRAMBES",
+        "organization": "LE MOULIN DE SOURNIA",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       }
     ],
     "chambre_attribuee": "Tamaris L’Écume n°43"
@@ -19108,66 +19125,75 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "BODE Véronique",
-        "organization": "Cap Ardèche",
-        "status": "Rendez-vous demandé"
+        "time": "17h15 – 17h30",
+        "speaker": "Jean-François CAZE",
+        "organization": "LES BUISSONNETS",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "LAFFON Sylvain",
-        "organization": "Fleurs d'Aubrac",
-        "status": "Rendez-vous demandé"
+        "time": "17h15 – 17h30",
+        "speaker": "Odile QUIEVRE",
+        "organization": "HÔTEL ESPACE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "QUIEVRE Odile",
-        "organization": "Hôtel Espace / Assoc. des Maisons Familiales",
-        "status": "Rendez-vous demandé"
+        "time": "17h30 – 17h45",
+        "speaker": "Franck TARDIEU",
+        "organization": "LA VALLÉE DE L'YONNE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "DUCHEMIN Sylvain",
-        "organization": "La Pierre Bleue",
-        "status": "Rendez-vous demandé"
+        "time": "17h30 – 17h45",
+        "speaker": "Sylvain LAFON",
+        "organization": "FLEURS D'AUBRAC",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "TARDIEU Franck",
-        "organization": "La Vallée de l'Yonne",
-        "status": "Rendez-vous demandé"
+        "time": "17h45 – 18h00",
+        "speaker": "Sylvain DUCHEMIN",
+        "organization": "LA PIERRE BLEUE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "CRAMBES Stéphanie",
-        "organization": "Le Moulin de Sournia",
-        "status": "Rendez-vous demandé"
+        "time": "17h45 – 18h00",
+        "speaker": "Véronique BODE",
+        "organization": "CAP ARDÈCHE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "CAZE Jean François",
-        "organization": "Les Buissonnets",
-        "status": "Rendez-vous demandé"
+        "time": "18h00 – 18h15",
+        "speaker": "Florelle BIDON",
+        "organization": "ROZ ARMOR",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "POSSON Emmanuelle",
-        "organization": "Marc et Montmija",
-        "status": "Rendez-vous demandé"
+        "time": "18h15 – 18h30",
+        "speaker": "Emmanuelle POSSON",
+        "organization": "MARC ET MONTMIJA",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "BIDON Florelle",
-        "organization": "Rozarmor",
-        "status": "Rendez-vous demandé"
+        "time": "18h15 – 18h30",
+        "speaker": "Stéphanie CRAMBES",
+        "organization": "LE MOULIN DE SOURNIA",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       }
     ],
     "chambre_attribuee": "Tamaris L’Écume n°44"
@@ -19360,87 +19386,107 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "BODE Véronique",
-        "organization": "Cap Ardèche",
-        "status": "Rendez-vous demandé"
+        "time": "17h15 – 17h30",
+        "speaker": "Stéphane ROY",
+        "organization": "ESCAPADE VACANCES",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "LAHAYE Natacha",
-        "organization": "Chalet de la Haute Joux",
-        "status": "Rendez-vous demandé"
+        "time": "17h15 – 17h30",
+        "speaker": "Stéphanie CRAMBES",
+        "organization": "LE MOULIN DE SOURNIA",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "PONTUS Francis",
-        "organization": "Domaine de Pyrène",
-        "status": "Rendez-vous demandé"
+        "time": "17h15 – 17h30",
+        "speaker": "Sylvain CHARDON",
+        "organization": "L'AUBERGE NORDIQUE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "LUCKA Patrycja",
-        "organization": "Domaine du Lac de Soursac",
-        "status": "Rendez-vous demandé"
+        "time": "17h30 – 17h45",
+        "speaker": "Natacha LAHAYE",
+        "organization": "CHALET DE LA HAUTE JOUX",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "ROY Stéphane",
-        "organization": "Escapade Vacances",
-        "status": "Rendez-vous demandé"
+        "time": "17h30 – 17h45",
+        "speaker": "Odile QUIEVRE",
+        "organization": "HÔTEL ESPACE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "QUIEVRE Odile",
-        "organization": "Hôtel Espace / Assoc. des Maisons Familiales",
-        "status": "Rendez-vous demandé"
+        "time": "17h30 – 17h45",
+        "speaker": "Patrycja LUCKA",
+        "organization": "DOMAINE DU LAC DE SOURSAC",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "AUGER Tristan",
-        "organization": "Koat Ar Mor",
-        "status": "Rendez-vous demandé"
+        "time": "17h45 – 18h00",
+        "speaker": "Emmanuelle POSSON",
+        "organization": "MARC ET MONTMIJA",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "ALLO Loïc",
-        "organization": "Le Gîte (Châtel)",
-        "status": "Rendez-vous demandé"
+        "time": "17h45 – 18h00",
+        "speaker": "Stéphane GRENIER",
+        "organization": "LE SOUFFLE VERT",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "CRAMBES Stéphanie",
-        "organization": "Le Moulin de Sournia",
-        "status": "Rendez-vous demandé"
+        "time": "18h00 – 18h15",
+        "speaker": "Francis PONTUS",
+        "organization": "DOMAINE DE PYRÈNE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "GRENIER Stéphane",
-        "organization": "Le Souffle Vert",
-        "status": "Rendez-vous demandé"
+        "time": "18h00 – 18h15",
+        "speaker": "Philippe RAMBAUD",
+        "organization": "LOU RIOUCLAR",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "RAMBAUD Philippe",
-        "organization": "Lou Riouclar",
-        "status": "Rendez-vous demandé"
+        "time": "18h00 – 18h15",
+        "speaker": "Tristan AUGER",
+        "organization": "KOAT AR MOR",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "POSSON Emmanuelle",
-        "organization": "Marc et Montmija",
-        "status": "Rendez-vous demandé"
+        "time": "18h15 – 18h30",
+        "speaker": "Loïc ALLO",
+        "organization": "LE GÎTE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
+      },
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "18h15 – 18h30",
+        "speaker": "Véronique BODE",
+        "organization": "CAP ARDÈCHE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       }
     ],
     "chambre_attribuee": "Tamaris L’Écume n°42"
@@ -20193,24 +20239,27 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "DUCHEMIN Sylvain",
-        "organization": "La Pierre Bleue",
-        "status": "Rendez-vous demandé"
+        "time": "17h45 – 18h00",
+        "speaker": "Marc SARRET",
+        "organization": "LES PORTES DU MERCANTOUR",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "CAZE Jean François",
-        "organization": "Les Buissonnets",
-        "status": "Rendez-vous demandé"
+        "time": "18h00 – 18h15",
+        "speaker": "Jean-François CAZE",
+        "organization": "LES BUISSONNETS",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "SARRET Marc",
-        "organization": "Les Portes du Mercantour",
-        "status": "Rendez-vous demandé"
+        "time": "18h15 – 18h30",
+        "speaker": "Sylvain DUCHEMIN",
+        "organization": "LA PIERRE BLEUE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       }
     ],
     "chambre_attribuee": "Tourelles Saint Côme 12"
@@ -20590,45 +20639,51 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "BODE Véronique",
-        "organization": "Cap Ardèche",
-        "status": "Rendez-vous demandé"
+        "time": "17h15 – 17h30",
+        "speaker": "Emmanuelle POSSON",
+        "organization": "MARC ET MONTMIJA",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "LUCKA Patrycja",
-        "organization": "Domaine du Lac de Soursac",
-        "status": "Rendez-vous demandé"
+        "time": "17h30 – 17h45",
+        "speaker": "Juliette ROY-BONNET",
+        "organization": "NEIGE ET PLEIN AIR",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "ROY Stéphane",
-        "organization": "Escapade Vacances",
-        "status": "Rendez-vous demandé"
+        "time": "17h30 – 17h45",
+        "speaker": "Véronique BODE",
+        "organization": "CAP ARDÈCHE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "QUIEVRE Odile",
-        "organization": "Hôtel Espace / Assoc. des Maisons Familiales",
-        "status": "Rendez-vous demandé"
+        "time": "17h45 – 18h00",
+        "speaker": "Odile QUIEVRE",
+        "organization": "HÔTEL ESPACE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "POSSON Emmanuelle",
-        "organization": "Marc et Montmija",
-        "status": "Rendez-vous demandé"
+        "time": "18h00 – 18h15",
+        "speaker": "Stéphane ROY",
+        "organization": "ESCAPADE VACANCES",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "ROY BONNET Juliette",
-        "organization": "Neige et Plein Air",
-        "status": "Rendez-vous demandé"
+        "time": "18h15 – 18h30",
+        "speaker": "Patrycja LUCKA",
+        "organization": "DOMAINE DU LAC DE SOURSAC",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       }
     ],
     "chambre_attribuee": "Tamaris La Villa n°33"
@@ -20821,45 +20876,51 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "BODE Véronique",
-        "organization": "Cap Ardèche",
-        "status": "Rendez-vous demandé"
+        "time": "17h15 – 17h30",
+        "speaker": "Emmanuelle POSSON",
+        "organization": "MARC ET MONTMIJA",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "LUCKA Patrycja",
-        "organization": "Domaine du Lac de Soursac",
-        "status": "Rendez-vous demandé"
+        "time": "17h30 – 17h45",
+        "speaker": "Juliette ROY-BONNET",
+        "organization": "NEIGE ET PLEIN AIR",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "ROY Stéphane",
-        "organization": "Escapade Vacances",
-        "status": "Rendez-vous demandé"
+        "time": "17h30 – 17h45",
+        "speaker": "Véronique BODE",
+        "organization": "CAP ARDÈCHE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "QUIEVRE Odile",
-        "organization": "Hôtel Espace / Assoc. des Maisons Familiales",
-        "status": "Rendez-vous demandé"
+        "time": "17h45 – 18h00",
+        "speaker": "Odile QUIEVRE",
+        "organization": "HÔTEL ESPACE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "POSSON Emmanuelle",
-        "organization": "Marc et Montmija",
-        "status": "Rendez-vous demandé"
+        "time": "18h00 – 18h15",
+        "speaker": "Stéphane ROY",
+        "organization": "ESCAPADE VACANCES",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "ROY BONNET Juliette",
-        "organization": "Neige et Plein Air",
-        "status": "Rendez-vous demandé"
+        "time": "18h15 – 18h30",
+        "speaker": "Patrycja LUCKA",
+        "organization": "DOMAINE DU LAC DE SOURSAC",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       }
     ],
     "chambre_attribuee": "Tamaris La Villa n°31"
@@ -21052,52 +21113,59 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "JAGO Emilie",
-        "organization": "La Saulaie",
-        "status": "Rendez-vous demandé"
+        "time": "17h15 – 17h30",
+        "speaker": "Philippe RAMBAUD",
+        "organization": "LOU RIOUCLAR",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "TARDIEU Franck",
-        "organization": "La Vallée de l'Yonne",
-        "status": "Rendez-vous demandé"
+        "time": "17h30 – 17h45",
+        "speaker": "Delphine PETITJEAN",
+        "organization": "MARC ET MONTMIJA",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "CHATOUREL Laurent",
-        "organization": "La Vigogne",
-        "status": "Rendez-vous demandé"
+        "time": "17h45 – 18h00",
+        "speaker": "Jean-Christophe VEAUX",
+        "organization": "TERROU",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "RAMBAUD Philippe",
-        "organization": "Lou Riouclar",
-        "status": "Rendez-vous demandé"
+        "time": "17h45 – 18h00",
+        "speaker": "Laurent CHATOUREL",
+        "organization": "Chalet la VIGOGNE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "POSSON Emmanuelle",
-        "organization": "Marc et Montmija",
-        "status": "Rendez-vous demandé"
+        "time": "18h00 – 18h15",
+        "speaker": "Emilie JAGO",
+        "organization": "LA SAULAIE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "LEJEUNE Grégory",
-        "organization": "Stella Maris",
-        "status": "Rendez-vous demandé"
+        "time": "18h00 – 18h15",
+        "speaker": "Grégory LEJEUNE",
+        "organization": "STELLA MARIS",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "VEAUX Jean-Christophe",
-        "organization": "Terrou",
-        "status": "Rendez-vous demandé"
+        "time": "18h15 – 18h30",
+        "speaker": "Franck TARDIEU",
+        "organization": "LA VALLÉE DE L'YONNE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       }
     ],
     "chambre_attribuee": "Tamaris La Villa n°34"
@@ -21290,52 +21358,59 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "JAGO Emilie",
-        "organization": "La Saulaie",
-        "status": "Rendez-vous demandé"
+        "time": "17h15 – 17h30",
+        "speaker": "Philippe RAMBAUD",
+        "organization": "LOU RIOUCLAR",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "TARDIEU Franck",
-        "organization": "La Vallée de l'Yonne",
-        "status": "Rendez-vous demandé"
+        "time": "17h30 – 17h45",
+        "speaker": "Delphine PETITJEAN",
+        "organization": "MARC ET MONTMIJA",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "CHATOUREL Laurent",
-        "organization": "La Vigogne",
-        "status": "Rendez-vous demandé"
+        "time": "17h45 – 18h00",
+        "speaker": "Jean-Christophe VEAUX",
+        "organization": "TERROU",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "RAMBAUD Philippe",
-        "organization": "Lou Riouclar",
-        "status": "Rendez-vous demandé"
+        "time": "17h45 – 18h00",
+        "speaker": "Laurent CHATOUREL",
+        "organization": "Chalet la VIGOGNE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "POSSON Emmanuelle",
-        "organization": "Marc et Montmija",
-        "status": "Rendez-vous demandé"
+        "time": "18h00 – 18h15",
+        "speaker": "Emilie JAGO",
+        "organization": "LA SAULAIE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "LEJEUNE Grégory",
-        "organization": "Stella Maris",
-        "status": "Rendez-vous demandé"
+        "time": "18h00 – 18h15",
+        "speaker": "Grégory LEJEUNE",
+        "organization": "STELLA MARIS",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "VEAUX Jean-Christophe",
-        "organization": "Terrou",
-        "status": "Rendez-vous demandé"
+        "time": "18h15 – 18h30",
+        "speaker": "Franck TARDIEU",
+        "organization": "LA VALLÉE DE L'YONNE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       }
     ],
     "chambre_attribuee": "Tamaris La Villa n°30"
@@ -22836,94 +22911,107 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "PONTUS Francis",
-        "organization": "Domaine de Pyrène",
-        "status": "Rendez-vous demandé"
+        "time": "17h15 – 17h30",
+        "speaker": "Grégory LEJEUNE",
+        "organization": "STELLA MARIS",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "LUCKA Patrycja",
-        "organization": "Domaine du Lac de Soursac",
-        "status": "Rendez-vous demandé"
+        "time": "17h15 – 17h30",
+        "speaker": "Tristan AUGER",
+        "organization": "KOAT AR MOR",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "LAFFON Sylvain",
-        "organization": "Fleurs d'Aubrac",
-        "status": "Rendez-vous demandé"
+        "time": "17h30 – 17h45",
+        "speaker": "Emmanuelle POSSON",
+        "organization": "MARC ET MONTMIJA",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "QUIEVRE Odile",
-        "organization": "Hôtel Espace / Assoc. des Maisons Familiales",
-        "status": "Rendez-vous demandé"
+        "time": "17h30 – 17h45",
+        "speaker": "Stéphanie CRAMBES",
+        "organization": "LE MOULIN DE SOURNIA",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "AUGER Tristan",
-        "organization": "Koat Ar Mor",
-        "status": "Rendez-vous demandé"
+        "time": "17h30 – 17h45",
+        "speaker": "Sylvain DUCHEMIN",
+        "organization": "LA PIERRE BLEUE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "DUCHEMIN Sylvain",
-        "organization": "La Pierre Bleue",
-        "status": "Rendez-vous demandé"
+        "time": "17h45 – 18h00",
+        "speaker": "Patrycja LUCKA",
+        "organization": "DOMAINE DU LAC DE SOURSAC",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "CHATOUREL Laurent",
-        "organization": "La Vigogne",
-        "status": "Rendez-vous demandé"
+        "time": "17h45 – 18h00",
+        "speaker": "Sylvain LAFON",
+        "organization": "FLEURS D'AUBRAC",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "ALLO Loïc",
-        "organization": "Le Gîte (Châtel)",
-        "status": "Rendez-vous demandé"
+        "time": "18h00 – 18h15",
+        "speaker": "Jean-Christophe VEAUX",
+        "organization": "TERROU",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "CRAMBES Stéphanie",
-        "organization": "Le Moulin de Sournia",
-        "status": "Rendez-vous demandé"
+        "time": "18h00 – 18h15",
+        "speaker": "Laurent CHATOUREL",
+        "organization": "Chalet la VIGOGNE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "POSSON Emmanuelle",
-        "organization": "Marc et Montmija",
-        "status": "Rendez-vous demandé"
+        "time": "18h00 – 18h15",
+        "speaker": "Loïc ALLO",
+        "organization": "LE GÎTE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "BERNARD Christophe",
-        "organization": "Relais du Moulin Neuf",
-        "status": "Rendez-vous demandé"
+        "time": "18h15 – 18h30",
+        "speaker": "Christophe BERNARD",
+        "organization": "LE RELAIS DU MOULIN NEUF",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "LEJEUNE Grégory",
-        "organization": "Stella Maris",
-        "status": "Rendez-vous demandé"
+        "time": "18h15 – 18h30",
+        "speaker": "Francis PONTUS",
+        "organization": "DOMAINE DE PYRÈNE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "VEAUX Jean-Christophe",
-        "organization": "Terrou",
-        "status": "Rendez-vous demandé"
+        "time": "18h15 – 18h30",
+        "speaker": "Odile QUIEVRE",
+        "organization": "HÔTEL ESPACE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       }
     ],
     "chambre_attribuee": "Tourelles Chalet Ver sur mer"
@@ -23116,94 +23204,107 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "PONTUS Francis",
-        "organization": "Domaine de Pyrène",
-        "status": "Rendez-vous demandé"
+        "time": "17h15 – 17h30",
+        "speaker": "Grégory LEJEUNE",
+        "organization": "STELLA MARIS",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "LUCKA Patrycja",
-        "organization": "Domaine du Lac de Soursac",
-        "status": "Rendez-vous demandé"
+        "time": "17h15 – 17h30",
+        "speaker": "Tristan AUGER",
+        "organization": "KOAT AR MOR",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "LAFFON Sylvain",
-        "organization": "Fleurs d'Aubrac",
-        "status": "Rendez-vous demandé"
+        "time": "17h30 – 17h45",
+        "speaker": "Emmanuelle POSSON",
+        "organization": "MARC ET MONTMIJA",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "QUIEVRE Odile",
-        "organization": "Hôtel Espace / Assoc. des Maisons Familiales",
-        "status": "Rendez-vous demandé"
+        "time": "17h30 – 17h45",
+        "speaker": "Stéphanie CRAMBES",
+        "organization": "LE MOULIN DE SOURNIA",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "AUGER Tristan",
-        "organization": "Koat Ar Mor",
-        "status": "Rendez-vous demandé"
+        "time": "17h30 – 17h45",
+        "speaker": "Sylvain DUCHEMIN",
+        "organization": "LA PIERRE BLEUE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "DUCHEMIN Sylvain",
-        "organization": "La Pierre Bleue",
-        "status": "Rendez-vous demandé"
+        "time": "17h45 – 18h00",
+        "speaker": "Patrycja LUCKA",
+        "organization": "DOMAINE DU LAC DE SOURSAC",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "CHATOUREL Laurent",
-        "organization": "La Vigogne",
-        "status": "Rendez-vous demandé"
+        "time": "17h45 – 18h00",
+        "speaker": "Sylvain LAFON",
+        "organization": "FLEURS D'AUBRAC",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "ALLO Loïc",
-        "organization": "Le Gîte (Châtel)",
-        "status": "Rendez-vous demandé"
+        "time": "18h00 – 18h15",
+        "speaker": "Jean-Christophe VEAUX",
+        "organization": "TERROU",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "CRAMBES Stéphanie",
-        "organization": "Le Moulin de Sournia",
-        "status": "Rendez-vous demandé"
+        "time": "18h00 – 18h15",
+        "speaker": "Laurent CHATOUREL",
+        "organization": "Chalet la VIGOGNE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "POSSON Emmanuelle",
-        "organization": "Marc et Montmija",
-        "status": "Rendez-vous demandé"
+        "time": "18h00 – 18h15",
+        "speaker": "Loïc ALLO",
+        "organization": "LE GÎTE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "BERNARD Christophe",
-        "organization": "Relais du Moulin Neuf",
-        "status": "Rendez-vous demandé"
+        "time": "18h15 – 18h30",
+        "speaker": "Christophe BERNARD",
+        "organization": "LE RELAIS DU MOULIN NEUF",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "LEJEUNE Grégory",
-        "organization": "Stella Maris",
-        "status": "Rendez-vous demandé"
+        "time": "18h15 – 18h30",
+        "speaker": "Francis PONTUS",
+        "organization": "DOMAINE DE PYRÈNE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "VEAUX Jean-Christophe",
-        "organization": "Terrou",
-        "status": "Rendez-vous demandé"
+        "time": "18h15 – 18h30",
+        "speaker": "Odile QUIEVRE",
+        "organization": "HÔTEL ESPACE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       }
     ],
     "chambre_attribuee": "Tourelles Chalet Ryes"
@@ -23396,38 +23497,43 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "JAGO Emilie",
-        "organization": "La Saulaie",
-        "status": "Rendez-vous demandé"
+        "time": "17h15 – 17h30",
+        "speaker": "Jean-Christophe VEAUX",
+        "organization": "TERROU",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "CRAMBES Stéphanie",
-        "organization": "Le Moulin de Sournia",
-        "status": "Rendez-vous demandé"
+        "time": "17h30 – 17h45",
+        "speaker": "Emilie JAGO",
+        "organization": "LA SAULAIE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "BERNARD Christophe",
-        "organization": "Relais du Moulin Neuf",
-        "status": "Rendez-vous demandé"
+        "time": "17h45 – 18h00",
+        "speaker": "Stéphanie CRAMBES",
+        "organization": "LE MOULIN DE SOURNIA",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "BIDON Florelle",
-        "organization": "Rozarmor",
-        "status": "Rendez-vous demandé"
+        "time": "18h00 – 18h15",
+        "speaker": "Christophe BERNARD",
+        "organization": "LE RELAIS DU MOULIN NEUF",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "VEAUX Jean-Christophe",
-        "organization": "Terrou",
-        "status": "Rendez-vous demandé"
+        "time": "18h15 – 18h30",
+        "speaker": "Florelle BIDON",
+        "organization": "ROZ ARMOR",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       }
     ],
     "chambre_attribuee": "Tourelles Saint Gabriel 4"
@@ -23620,38 +23726,43 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "JAGO Emilie",
-        "organization": "La Saulaie",
-        "status": "Rendez-vous demandé"
+        "time": "17h15 – 17h30",
+        "speaker": "Jean-Christophe VEAUX",
+        "organization": "TERROU",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "CRAMBES Stéphanie",
-        "organization": "Le Moulin de Sournia",
-        "status": "Rendez-vous demandé"
+        "time": "17h30 – 17h45",
+        "speaker": "Emilie JAGO",
+        "organization": "LA SAULAIE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "BERNARD Christophe",
-        "organization": "Relais du Moulin Neuf",
-        "status": "Rendez-vous demandé"
+        "time": "17h45 – 18h00",
+        "speaker": "Stéphanie CRAMBES",
+        "organization": "LE MOULIN DE SOURNIA",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "BIDON Florelle",
-        "organization": "Rozarmor",
-        "status": "Rendez-vous demandé"
+        "time": "18h00 – 18h15",
+        "speaker": "Christophe BERNARD",
+        "organization": "LE RELAIS DU MOULIN NEUF",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "VEAUX Jean-Christophe",
-        "organization": "Terrou",
-        "status": "Rendez-vous demandé"
+        "time": "18h15 – 18h30",
+        "speaker": "Florelle BIDON",
+        "organization": "ROZ ARMOR",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       }
     ],
     "chambre_attribuee": "Tourelles Lantheuil 4"
@@ -23844,38 +23955,43 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "JAGO Emilie",
-        "organization": "La Saulaie",
-        "status": "Rendez-vous demandé"
+        "time": "17h15 – 17h30",
+        "speaker": "Jean-Christophe VEAUX",
+        "organization": "TERROU",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "CRAMBES Stéphanie",
-        "organization": "Le Moulin de Sournia",
-        "status": "Rendez-vous demandé"
+        "time": "17h30 – 17h45",
+        "speaker": "Emilie JAGO",
+        "organization": "LA SAULAIE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "BERNARD Christophe",
-        "organization": "Relais du Moulin Neuf",
-        "status": "Rendez-vous demandé"
+        "time": "17h45 – 18h00",
+        "speaker": "Stéphanie CRAMBES",
+        "organization": "LE MOULIN DE SOURNIA",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "BIDON Florelle",
-        "organization": "Rozarmor",
-        "status": "Rendez-vous demandé"
+        "time": "18h00 – 18h15",
+        "speaker": "Christophe BERNARD",
+        "organization": "LE RELAIS DU MOULIN NEUF",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "VEAUX Jean-Christophe",
-        "organization": "Terrou",
-        "status": "Rendez-vous demandé"
+        "time": "18h15 – 18h30",
+        "speaker": "Florelle BIDON",
+        "organization": "ROZ ARMOR",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       }
     ],
     "chambre_attribuee": "Tourelles Saint Côme 3"
@@ -25021,52 +25137,67 @@
     "rdv": [
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "JOURDAIN Jean-Marc",
-        "organization": "Domaine de Beg Porz",
-        "status": "Rendez-vous demandé"
+        "time": "17h15 – 17h30",
+        "speaker": "Jean-Marc JOURDAIN",
+        "organization": "DOMAINE DE BEG PORZ",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "ROY Stéphane",
-        "organization": "Escapade Vacances",
-        "status": "Rendez-vous demandé"
+        "time": "17h30 – 17h45",
+        "speaker": "Benoît DUBOIS",
+        "organization": "LE BÉROUZE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "AUGER Tristan",
-        "organization": "Koat Ar Mor",
-        "status": "Rendez-vous demandé"
+        "time": "17h30 – 17h45",
+        "speaker": "Tristan AUGER",
+        "organization": "KOAT AR MOR",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "DUBOIS Benoit",
-        "organization": "Le Bérouze",
-        "status": "Rendez-vous demandé"
+        "time": "17h45 – 18h00",
+        "speaker": "Philippe RAMBAUD",
+        "organization": "LOU RIOUCLAR",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "RAMBAUD Philippe",
-        "organization": "Lou Riouclar",
-        "status": "Rendez-vous demandé"
+        "time": "17h45 – 18h00",
+        "speaker": "Stéphane ROY",
+        "organization": "ESCAPADE VACANCES",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "POSSON Emmanuelle",
-        "organization": "Marc et Montmija",
-        "status": "Rendez-vous demandé"
+        "time": "18h00 – 18h15",
+        "speaker": "Laure ROUAN",
+        "organization": "MARC ET MONTMIJA",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       },
       {
         "day": "Mercredi 25 novembre",
-        "time": "Horaire à confirmer",
-        "speaker": "ROY BONNET Juliette",
-        "organization": "Neige et Plein Air",
-        "status": "Rendez-vous demandé"
+        "time": "18h15 – 18h30",
+        "speaker": "Juliette ROY-BONNET",
+        "organization": "NEIGE ET PLEIN AIR",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
+      },
+      {
+        "day": "Mercredi 25 novembre",
+        "time": "18h15 – 18h30",
+        "speaker": "Sylvain CHARDON",
+        "organization": "L'AUBERGE NORDIQUE",
+        "status": "Créneau de votre entreprise",
+        "kind": "company"
       }
     ]
   }
