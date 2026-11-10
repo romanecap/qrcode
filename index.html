@@ -84,7 +84,39 @@
 <section class="hidden" id="notes"><div class="return-nav"><button type="button" class="back-trombi" data-go="home">← Retour à l’accueil</button></div><div class="page-title"><h2>Mes notes 📝</h2></div><div class="card"><label class="note-label" for="note-day">Choisir une journée</label><select class="note-input" id="note-day" style="min-height:0;resize:none"><option value="lundi">Lundi 23 novembre</option><option value="mardi">Mardi 24 novembre</option><option value="mercredi">Mercredi 25 novembre</option><option value="jeudi">Jeudi 26 novembre</option><option value="bilan">Mes idées à mettre en pratique</option></select><label class="note-label" for="note-text">Mes idées et mes notes</label><textarea class="note-input" id="note-text" placeholder="Une idée à retenir, une question, une action pour mon village…"></textarea><div class="save-status" id="note-status" role="status">Sauvegarde automatique sur cet appareil</div><div class="note-actions"><button class="note-btn" id="note-export" type="button">↓ Exporter mes notes (.txt)</button><button class="note-btn secondary" id="note-copy" type="button">Copier mes notes</button><button class="note-btn danger" id="note-clear" type="button">Effacer cette journée</button></div></div></section>
 <section class="hidden" id="infos"><div class="return-nav"><button type="button" class="back-trombi" data-go="home">← Retour à l’accueil</button></div><div class="page-title"><div class="kicker">Sur place</div><h2>Infos pratiques 📍</h2></div><div class="card"><div class="info"><b>🛏️</b><div><strong>Ma chambre</strong><br/><span class="muted" id="info-chambre">Numéro et nom de chambre à renseigner</span></div></div><div class="info"><b>🏡</b><div><strong>Les Tourelles</strong><br/><span class="muted">Avenue de la Libération, 14960 Asnelles-sur-Mer</span><br/><a href="https://www.google.com/maps/search/?api=1&amp;query=Les+Tourelles+Asnelles" rel="noopener" target="_blank">📍 Itinéraire</a></div></div><div class="info"><b>🗓️</b><div><strong>Du 23 au 26 novembre 2026</strong><br/><span class="muted">23e Université des Directions</span></div></div><div class="info"><b>📋</b><div><strong>Programme général</strong><br/><a href="programme-udd-2026.pdf" target="_blank">Consulter le PDF</a></div></div></div></section>
 <p class="footer">ÉCHANGER · APPRENDRE · PROGRESSER · PARTAGER · CONCRÉTISER</p></main></div><div class="nav-wrap"><nav class="nav"><button class="active" data-go="home"><span>⌂</span>Accueil</button><button data-go="agenda"><span>▦</span>Programme<br>personnalisé</button><button data-go="trombi"><span>♧</span>Trombi</button><button data-go="docs"><span>📚</span>Documents</button></nav></div><script>
-const sections=['home','agenda','rdv','trombi','docs','notes','infos'];let person=null,dayIndex=0;const token=new URLSearchParams(location.search).get('p');function show(id){if(id==='trombi')renderFavorites();for(const s of sections)document.getElementById(s).classList.toggle('hidden',s!==id);document.querySelectorAll('[data-go]').forEach(b=>b.classList.toggle('active',b.dataset.go===id));window.scrollTo(0,0)}document.querySelectorAll('[data-go]').forEach(b=>b.addEventListener('click',()=>show(b.dataset.go)));function agenda(){const days=person?.days||[],tabs=document.getElementById('days'),events=document.getElementById('events');tabs.replaceChildren();events.replaceChildren();if(!days.length){document.getElementById('daytitle').textContent='Mes choix';events.textContent='Aucun choix de programme renseigné pour ce participant.';return}days.forEach((d,i)=>{let b=document.createElement('button');b.className='tab'+(i===dayIndex?' active':'');b.textContent=['Lun. 23','Mar. 24','Mer. 25','Jeu. 26'][i]||d.title;b.onclick=()=>{dayIndex=i;agenda()};tabs.append(b)});dayIndex=Math.min(dayIndex,days.length-1);const d=days[dayIndex];document.getElementById('daytitle').textContent=d.title;const items=(d.items||[]).filter(x=>x.title&&!/Consultez le programme général dans Documents/i.test(x.title));if(!items.length){const p=document.createElement('p');p.className='muted';p.textContent='Aucune activité individuelle renseignée pour cette journée.';events.append(p);return}items.forEach(item=>{const r=document.createElement('article');r.className='schedule-card'+(/MON ATELIER/i.test(item.title)?' chosen':'');const time=document.createElement('div');time.className='schedule-time';time.textContent=item.time||'Horaire à confirmer';const body=document.createElement('div');body.className='schedule-body';const title=document.createElement('strong');const cleanTitle=item.title.replace(/^MON (?:ATELIER|INTERVENTION)\s*·\s*/i,'');const named=speakersForItem(item.title);title.textContent=named.length&&cleanTitle.includes(' — ')?cleanTitle.split(' — ').slice(0,-1).join(' — '):cleanTitle;body.append(title);if(/MON ATELIER/i.test(item.title)){const pill=document.createElement('span');pill.className='choice-label';pill.textContent='✓ Mon choix';body.prepend(pill)}r.append(time,body);named.forEach(n=>profileBlock(body,n,''));events.append(r)})}
+const sections=['home','agenda','rdv','trombi','docs','notes','infos'];let person=null,dayIndex=0;const token=new URLSearchParams(location.search).get('p');function show(id){if(id==='trombi')renderFavorites();for(const s of sections)document.getElementById(s).classList.toggle('hidden',s!==id);document.querySelectorAll('[data-go]').forEach(b=>b.classList.toggle('active',b.dataset.go===id));window.scrollTo(0,0)}document.querySelectorAll('[data-go]').forEach(b=>b.addEventListener('click',()=>show(b.dataset.go)));function agenda(){const days=person?.days||[],tabs=document.getElementById('days'),events=document.getElementById('events');tabs.replaceChildren();events.replaceChildren();if(!days.length){document.getElementById('daytitle').textContent='Mes choix';events.textContent='Aucun choix de programme renseigné pour ce participant.';return}days.forEach((d,i)=>{let b=document.createElement('button');b.className='tab'+(i===dayIndex?' active':'');b.textContent=['Lun. 23','Mar. 24','Mer. 25','Jeu. 26'][i]||d.title;b.onclick=()=>{dayIndex=i;agenda()};tabs.append(b)});dayIndex=Math.min(dayIndex,days.length-1);const d=days[dayIndex];document.getElementById('daytitle').textContent=d.title;const items=(d.items||[]).filter(x=>x.title&&!/Consultez le programme général dans Documents/i.test(x.title)).map(x=>({...x}));
+ // Les rendez-vous du speed-dating apparaissent également dans le programme personnalisé.
+ // Les créneaux communs à plusieurs villages sont regroupés pour les prestataires.
+ const speedSlots=new Map();
+ for(const a of (Array.isArray(person.rdv)?person.rdv:[])){
+   if(a.day!==d.title||a.kind==='intervention')continue;
+   const key=a.time||'';
+   if(!speedSlots.has(key))speedSlots.set(key,[]);
+   speedSlots.get(key).push(a);
+ }
+ for(const [time,meetings] of speedSlots){
+   const isCompany=meetings.some(a=>a.kind==='company');
+   items.push({time,title:isCompany?'MON SPEED-DATING · Rendez-vous de votre entreprise':'MON SPEED-DATING · Rendez-vous',speedMeetings:meetings});
+ }
+ const startTime=t=>{const m=(t||'').match(/(\d{1,2})h(\d{2})/);return m?Number(m[1])*60+Number(m[2]):9999};
+ items.sort((a,b)=>startTime(a.time)-startTime(b.time));if(!items.length){const p=document.createElement('p');p.className='muted';p.textContent='Aucune activité individuelle renseignée pour cette journée.';events.append(p);return}items.forEach(item=>{const r=document.createElement('article');r.className='schedule-card'+(/MON ATELIER|MON SPEED-DATING/i.test(item.title)?' chosen':'');const time=document.createElement('div');time.className='schedule-time';time.textContent=item.time||'Horaire à confirmer';const body=document.createElement('div');body.className='schedule-body';const title=document.createElement('strong');const cleanTitle=item.title.replace(/^MON (?:ATELIER|INTERVENTION|SPEED-DATING)\s*·\s*/i,'');const named=speakersForItem(item.title);title.textContent=named.length&&cleanTitle.includes(' — ')?cleanTitle.split(' — ').slice(0,-1).join(' — '):cleanTitle;body.append(title);if(/MON ATELIER/i.test(item.title)){const pill=document.createElement('span');pill.className='choice-label';pill.textContent='✓ Mon choix';body.prepend(pill)}r.append(time,body);named.forEach(n=>profileBlock(body,n,''));
+ if(item.speedMeetings){
+   const unique=new Set();
+   for(const a of item.speedMeetings){
+     const speaker=a.speaker||a.provider||'';
+     const organization=a.organization||'';
+     const key=normalizePerson(speaker+'|'+organization);
+     if(unique.has(key))continue;unique.add(key);
+     const info=document.createElement('div');info.className='rdv-org';
+     info.textContent=a.kind==='company'?(organization||speaker):(organization||speaker);
+     body.append(info);
+     if(findSpeaker(speaker))profileBlock(body,speaker,organization);
+     else if(speaker&&normalizePerson(speaker)!==normalizePerson(organization)){
+       const name=document.createElement('div');name.className='rdv-org';name.textContent=speaker;body.append(name);
+     }
+   }
+ }
+ events.append(r)})}
 function normalizePerson(s){return (s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]/g,'')}
 // Correspondances explicites entre les noms du programme et les fiches du trombinoscope.
 // Ne jamais rapprocher deux personnes sur la seule base d'un prénom ou d'un nom partiel.
@@ -138,6 +170,8 @@ function speakersForItem(title){
 function renderRdv(){
  const el=document.getElementById('rdv-personnel');el.replaceChildren();if(!person)return;
  const entries=Array.isArray(person.rdv)?[...person.rdv]:[];
+ // Les interventions renseignées dans le profil sont prioritaires ; éviter les doublons.
+ const sameIntervention=(a,b)=>a.kind==='intervention'&&b.kind==='intervention'&&a.day===b.day&&a.time===b.time;
  // Afficher aussi les interventions du programme pour les intervenants identifiés.
  const self=findSpeaker(person.name);
  if(self){
@@ -146,7 +180,7 @@ function renderRdv(){
        const participants=speakersForItem(item.title);
        if(participants.some(n=>normalizePerson(findSpeaker(n)?.name||'')===normalizePerson(self.name))){
          const other=participants.filter(n=>normalizePerson(findSpeaker(n)?.name||'')!==normalizePerson(self.name));
-         if(!entries.some(e=>e.kind==='intervention'&&e.day===day.title&&e.time===item.time))entries.push({day:day.title,time:item.time,speaker:item.title.replace(/^MON (?:ATELIER|INTERVENTION)\s*·\s*/i,''),organization:other.length?'Avec '+other.join(' et '):'',kind:'intervention'});
+         if(!entries.some(e=>e.kind==='intervention'&&e.day===day.title&&e.time===item.time))entries.push({day:day.title,time:item.time,speaker:item.title.replace(/^MON (?:ATELIER|INTERVENTION|SPEED-DATING)\s*·\s*/i,''),organization:other.length?'Avec '+other.join(' et '):'',kind:'intervention'});
        }
      }
    }
@@ -177,7 +211,7 @@ function renderRdv(){
  card.append(time);
  if(a.kind==='intervention'){
    const tag=document.createElement('span');tag.className='rdv-org';tag.textContent='Mon intervention';card.append(tag,who);
-   if(a.organization){const withWhom=document.createElement('span');withWhom.className='rdv-org';withWhom.textContent=a.organization;card.append(withWhom);const names=a.organization.replace(/^Avec\s+/i,'').split(/\s+et\s+/i);names.forEach(n=>profileBlock(card,n,''));}
+   if(a.organization){const withWhom=document.createElement('span');withWhom.className='rdv-org';withWhom.textContent=a.organization;card.append(withWhom);const names=a.organization.replace(/^Avec\s+/i,'').split(/\s+et\s+|\s*,\s*/i);names.forEach(n=>profileBlock(card,n,''));}
    el.append(card);return;
  }
  if(a.kind==='company-group'){
