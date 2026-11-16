@@ -1256,5 +1256,21 @@
     "type": "Invité / Intervenant",
     "functionFilter": "Prestataire",
     "photo": "trombinoscope/craunot-ethan.jpg"
+  },
+  {
+    "name": "VINCENT Stéphane",
+    "establishment": "FAIRMOOVE SOLUTIONS",
+    "function": "Participant",
+    "category": "Invités / Intervenants",
+    "type": "Invité / Intervenant",
+    "functionFilter": "Participant"
+  },
+  {
+    "name": "ROY Thierry",
+    "establishment": "FAIRMOOVE SOLUTIONS",
+    "function": "Participant",
+    "category": "Invités / Intervenants",
+    "type": "Invité / Intervenant",
+    "functionFilter": "Participant"
   }
 ]
