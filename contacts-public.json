@@ -109,16 +109,6 @@
     "photo": "trombinoscope/veaux-jean-christophe.png"
   },
   {
-    "name": "VEAUX Sonia",
-    "establishment": "TERROU",
-    "function": "Responsable comptabilité",
-    "category": "Administration / RH / Gestion",
-    "type": "Réseau Capfrance",
-    "functionFilter": "Comptable",
-    "email": "sonia@cfterrou.fr",
-    "photo": "trombinoscope/sonia-veaux.jpg"
-  },
-  {
     "name": "DELIAT Carole",
     "establishment": "TERROU",
     "function": "Directrice adjointe",
@@ -299,16 +289,6 @@
     "photo": "trombinoscope/duquesne-francois-xavier.png"
   },
   {
-    "name": "BOURDET Sabine",
-    "establishment": "LA CHÂTAIGNERAIE",
-    "function": "Assistante de direction",
-    "category": "Direction",
-    "type": "Réseau Capfrance",
-    "functionFilter": "Assistante de direction",
-    "email": "info@vacances-chataigneraie.com",
-    "photo": ""
-  },
-  {
     "name": "BIDON Florelle",
     "establishment": "ROZ ARMOR",
     "function": "Directrice",
@@ -327,16 +307,6 @@
     "functionFilter": "Directrice adjointe",
     "email": "justine.chalet@rozarmor.com",
     "photo": "trombinoscope/chalet-justine.png"
-  },
-  {
-    "name": "LEQUIN Anne",
-    "establishment": "LE PIROULET",
-    "function": "Directrice adjointe",
-    "category": "Direction adjointe",
-    "type": "Réseau Capfrance",
-    "functionFilter": "Directrice adjointe",
-    "email": "adjoint.direction@lepiroulet.fr",
-    "photo": "trombinoscope/anne-lequin.jpg"
   },
   {
     "name": "LAHAYE Natacha",
@@ -697,16 +667,6 @@
     "functionFilter": "Directrice",
     "photo": "trombinoscope/muriel-darfeuille.jpg",
     "email": "contact@domaine-lac-soursac.com"
-  },
-  {
-    "name": "DARFEUILLE Max",
-    "establishment": "DOMAINE DU LAC DE SOURSAC",
-    "function": "Gérant",
-    "category": "Direction",
-    "type": "Réseau Capfrance",
-    "functionFilter": "Directeur",
-    "email": "contact@domaine-lac-soursac.com",
-    "photo": "trombinoscope/max-darfeuille.jpg"
   },
   {
     "name": "LUCKA Patrycja",
